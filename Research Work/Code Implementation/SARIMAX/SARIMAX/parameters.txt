@@ -1,0 +1,21 @@
+Saint John
+P = 1
+Q = 1
+p = 6
+d = 1
+q = 9
+
+Toronto
+P = 1
+Q = 1
+p = 25
+d = 1
+q = 27
+
+
+Ottawa
+P = 1
+Q = 1
+p = 24
+d = 1
+q = 24

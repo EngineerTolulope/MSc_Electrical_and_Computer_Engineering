@@ -1,0 +1,9 @@
+% QUANTIZE SIGNAL ---------------------------------------------------------
+%===========================Modified STPR=================================%
+%Date: 30 July 2016.
+% Now uses the 'quantise()' function.
+function struc_data = quantize_sig(struc_data, current)
+struc_data.signals.MES.sig = quantise(struc_data.signals.MES.sig, ...
+                                      current.ap.quant.numbits, ...
+                                      current.ap.quant.max_amp, ...
+                                      current.ap.quant.min_amp);

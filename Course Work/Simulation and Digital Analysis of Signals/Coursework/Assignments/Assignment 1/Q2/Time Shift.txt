@@ -1,0 +1,8 @@
+Red line crossing zero volt at 0.25 secs
+Blue line crossing zero volt at 0.375 secs
+
+Time difference:- 0.375secs - 0.25secs = 0.125 secs
+
+--Mathematically
+dt = (phi * T)/360 = (phi * (1/f0))/360
+dt = (90 * (1/2))/360 = 45/360 = 0.125 secs

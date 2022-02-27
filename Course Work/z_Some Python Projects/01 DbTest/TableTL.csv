@@ -1,0 +1,592 @@
+TLInstance,Name,Description,Flags,Value,LogEnable,StartTime,StopTime,MonObjSiteNo,MonObjDeviceNo,MonObjObjectType,MonObjInstance,MonObjProperty,MonObjArrayIndex,MonObjObjectName,MonObjPropertyName,LogInterval,LogTimer,StopWhenFull,RecordCount,TotalRecordCount,NotificationThreshold,RecordsSinceNotification,LastNotifyRecord,NotificationClass,AckedTransitions,EventTimeStamps1,EventTimeStamps2,EventTimeStamps3,HALFlags
+1,560501_SUB Convenience Store A/C Power 5M TL Archive,,128,0,1,,,1,560501,AI,1,11,0,SUB Convenience Store A/C Power,Value,30000,,,670036,670036,50,,0,9,,,,,128
+2,560501_SUB Convenience Store A/C Max kW Minute demand TL Archive,,128,0,1,,,1,560501,AV,72,11,0,SUB Convenience Store A/C Max kW Minute demand,Value,0,,,7773661,7773661,45,,6963976,9,,,,,128
+3,560501_SUB Convenience Store A/C Last Months kWh Charge TL Archive,,128,0,1,,,1,560501,AV,74,11,0,SUB Convenience Store A/C Last Months kWh Charge,Value,0,,,271,271,45,,182,9,,,,,128
+4,560501_SUB Convenience Store A/C Power 30M TL Archive,,128,0,1,,,1,560501,AI,1,11,0,SUB Convenience Store A/C Power,Value,180000,,,113151,113151,50,,0,9,,,,,128
+5,560501_SUB Convenience Store A/C Last Months kWh consumption tl Archive,,128,0,1,,,1,560501,AV,70,11,0,SUB Convenience Store A/C Last Months kWh consumption,Value,0,,,285,285,45,,180,9,,,,,128
+6,560501_SUB Convenience Store A/C Power 1M TL Archive,,128,0,1,,,1,560501,AI,1,11,0,SUB Convenience Store A/C Power,Value,6000,,,3329359,3329359,50,,0,9,,,,,128
+7,50500_BH Main Water Cubic meters TL Archive,Bailey Hall water consumption,128,0,1,,,1,50500,AV,95,11,0,BH Main Water Cubic meters,Value,90000,,,182762,182762,50,,0,9,,,,,128
+8,430000_Neil Electric Meter Total Energy TL Archive,Neil eletrical consumption,128,0,1,,,1,430000,AV,91,11,0,Neil Electric Meter Total Energy,Value,90000,,,182422,182422,50,,0,9,,,,,128
+9,520200_Alumni Main Meter Consumption TL Archive,Alumni electrical consumption,128,0,1,,,1,38000,AV,11,11,0,,Value,90000,,,139087,139087,50,,0,9,,,,,128
+10,50500_BH TOTAL CONDENSATE USED (LBS) TL Archive,Bailey Hall total condensate (lbs),128,0,1,,,1,50500,AV,74,11,0,BH TOTAL CONDENSATE USED (LBS),Value,90000,,,182761,182761,50,,0,9,,,,,128
+11,60100_BB E208 kWh net TL Archive,Bank Bookstore electrical consumption,128,0,1,,,1,60100,AV,68,11,0,BB E208 kWh net,Value,90000,,,182481,182481,50,,0,9,,,,,128
+12,90200_CTN E208 kWh Net tl Archive,Carleton Hall electrical consumption,128,0,1,,,1,90200,AV,114,11,0,CTN E208 kW Net,Value,90000,,,182022,182022,50,,0,9,,,,,128
+13,450000_Neville Electric Meter Total Energy TL Archive,Neil electrical consumption,128,0,1,,,1,450000,AV,92,11,0,Neville Electric Meter Energy,Value,90000,,,182500,182500,50,,0,9,,,,,128
+14,610300_Wu kWh since inception TL Archive,Wu electrical consumption,128,0,1,,,1,610300,AV,90,11,0,kWh since inception (dec 2007),Value,90000,,,181925,181925,50,,0,9,,,,,128
+15,370000_BMO Dome TOTAL CONDENSATE USED (LBS)TL Archive,BMO Dome Total condensate (lbs),128,0,1,,,1,370000,AV,51,11,0,BMO Dome TOTAL CONDENSATE USED (LBS),Value,90000,,,177132,177132,50,,0,9,,,,,128
+16,290000_LBRes TOTAL CONDENSATE USED (LBS) TL Archive,LB Residence total condensate (lbs),192,0,1,,,1,290000,AV,74,11,0,LBRes TOTAL CONDENSATE USED (LBS),Value,90000,,,180994,180994,50,,0,9,,,,,128
+17,520200_Alumni Main Meter Demand TL Archive,Alumni electrical consumption,128,0,1,,,1,38000,AV,19,11,0,,Value,90000,,,139057,139057,50,,0,9,,,,,128
+18,30100_ALM Total Condensate Archive,Alumni total condensate (lbs),128,0,1,,,1,30100,AV,74,11,0,ALM TOTAL CONDENSATE USED (LBS),Value,90000,,,177092,177092,50,,0,9,,,,,32
+19,70100_BIO TOTAL CONDENSATE USED (LBS) TL Archive,Bio Engineering (RN Scott) total condensate (lbs),128,0,1,,,1,70100,AV,74,11,0,BIO TOTAL CONDENSATE USED (LBS),Value,90000,,,182068,182068,50,,0,9,,,,,32
+20,160400_HIL TOTAL CONDENSATE USED TL Archive,Hil total condensate used (lbs),128,0,1,,,1,160400,AV,135,11,0,HIL TOTAL CONDENSATE USED (LBS),Value,90000,,,182648,182648,50,,0,9,,,,,128
+21,240300_IUP Total Condensate Used lbs Archive,IUP total condensate (lbs),128,0,1,,,1,240300,AV,74,11,0,IUP TOTAL CONDENSATE USED (LBS),Value,90000,,,182263,182263,50,,0,9,,,,,128
+22,270000_Incutech TOTAL STEAM USED (LBS) TL Archive,Incutech total condensate (lbs),128,0,1,,,1,270000,AV,173,11,0,Incutech TOTAL STEAM USED (LBS),Value,6000,,,2537882,2537882,50,,0,9,,,,,128
+23,430000_Neil Total Condensate Used lbs Archive,Neil total condensate (lbs),128,0,1,,,1,430000,AV,74,11,0,TOTAL CONDENSATE USED (LBS),Value,90000,,,182150,182150,50,,0,9,,,,,128
+24,620000_AH Total Condensate Used lbs TL Archive,Aitken House total condensate (lbs),128,0,1,,,1,620000,AV,74,11,0,AH TOTAL CONDENSATE USED (LBS),Value,90000,,,182362,182362,50,,0,9,,,,,128
+25,520200_Bridges Power Consumption TL Archive,Bridges electrical consumption,128,0,1,,,1,80800,AV,11,11,0,Energy TOTAL,Value,30000,,,510101,510101,50,,0,9,,,,,128
+26,520200_Bridges Power Demand TL Archive,Bridges electrical demand sliding window,128,0,1,,,1,80800,AV,19,11,0,MAX of Power Demand,Value,30000,,,509737,509737,50,,0,9,,,,,128
+27,520200_Bridges Power Max Demand TL Archive,Bridges electrical demand max,128,0,1,,,1,80800,AV,19,11,0,MAX of Power Demand,Value,30000,,,510104,510104,50,,0,9,,,,,128
+28,520200_Harrison Power Consumption TL Archive,Harrison electrical consumption,128,0,1,,,1,188000,AV,11,11,0,Energy TOTAL,Value,30000,,,504045,504045,50,,0,9,,,,,128
+29,520200_Harrison Power Demand TL Archive,Harrison electrical demand sliding window,128,0,1,,,1,188000,AV,19,11,0,MAX of Power Demand,Value,30000,,,503700,503700,50,,0,9,,,,,128
+30,520200_Harrison Power Max Demand TL Archive,Harrison electrical demand max,128,0,1,,,1,188000,AV,19,11,0,MAX of Power Demand,Value,30000,,,504078,504078,50,,0,9,,,,,128
+31,520200_Lady Beaverbrook Power Consumption TL Archive,LB Gym electrical consumption,128,0,1,,,1,298000,AV,11,11,0,Energy TOTAL,Value,30000,,,1289807,1289807,50,,0,9,,,,,128
+32,520200_Lady Beaverbrook Power Demand TL Archive,LB Gym electrical demand sliding window,128,0,1,,,1,298000,AV,19,11,0,MAX of Power Demand,Value,90000,,,233339,233339,50,,0,9,,,,,128
+33,520200_Lady Beaverbrook Power Max Demand TL Archive,LB Gym electrical demand max,128,0,1,,,1,298000,AV,16,11,0,MAX of System Power,Value,30000,,,464450,464450,50,,0,9,,,,,128
+34,520200_Lady Dunn Power Consumption TL Archive,Lady Dunn electrical consumption,128,0,1,,,1,308100,AV,10,11,0,W-hours: Total,Value,30000,,,468356,468356,50,,0,9,,,,,128
+35,520200_Lady Dunn Power Demand TL Archive,Lady Dunn electrical demand sliding window,128,0,1,,,1,308100,AV,4,11,0,Watts: 3-Ph total,Value,30000,,,468358,468358,50,,0,9,,,,,128
+36,520200_Lady Dunn Power Max Demand TL Archive,Lady Dunn electrical demand max,128,0,1,,,1,308100,AV,24,11,0,Positive Watts: 3-Ph: Average,Value,30000,,,468356,468356,50,,0,9,,,,,128
+37,520200_MacKenzie Power Consumption TL Archive,MacKenzie electrical consumption,128,0,1,,,1,328000,AV,10,11,0,W-hours: Total,Value,30000,,,520302,520302,50,,0,9,,,,,128
+38,520200_MacKenzie Power Demand TL Archive,MacKenzie electrical demand sliding window,128,0,1,,,1,328000,AV,4,11,0,Watts: 3-Ph total,Value,30000,,,520303,520303,50,,0,9,,,,,128
+39,520200_MacKenzie Power Max Demand TL Archive,MacKenzie electrical demand max,128,0,1,,,1,328000,AV,24,11,0,Positive Watts: 3-Ph: Average,Value,30000,,,520304,520304,50,,0,9,,,,,128
+40,520200_Joy Kid Power Consumption TLl Archive,Joy Kid electrical consumption,128,0,1,,,1,308000,AV,10,11,0,W-hours: Total,Value,30000,,,468024,468024,50,,0,9,,,,,128
+41,520200_Joy Kid Power DemandTL Archive,Joy Kid electrical demand sliding window,128,0,1,,,1,308000,AV,4,11,0,Watts: 3-Ph total,Value,30000,,,468023,468023,50,,0,9,,,,,128
+42,520200_Joy Kid Power Max Demand TLl Archive,Joy Kid electrical demand max,128,0,1,,,1,308000,AV,24,11,0,Positive Watts: 3-Ph: Average,Value,30000,,,468024,468024,50,,0,9,,,,,128
+43,520200_Mcleod Power Consumption TL Archive,McLeod electrical consumption,128,0,1,,,1,408000,AV,11,11,0,Energy TOTAL,Value,30000,,,1318926,1318926,50,,0,9,,,,,128
+44,520200_Mcleod Power Demand TL Archive,McLeod electrical demand sliding window,128,0,1,,,1,408000,AV,19,11,0,MAX of Power Demand,Value,90000,,,246329,246329,50,,0,9,,,,,128
+45,520200_Mcleod Power Max Demand TL Archive,McLeod electrical demand max,128,0,1,,,1,408000,AV,16,11,0,MAX of System Power,Value,30000,,,502907,502907,50,,0,9,,,,,128
+46,520200_Aitken Power Consumption TL Archive,Aitken House electrical consumption,128,0,1,,,1,628000,AV,11,11,0,Energy TOTAL,Value,30000,,,521520,521520,50,,0,9,,,,,128
+47,520200_Aitken Power Demand TL Archive,Aitken House electrical demand sliding window,128,0,1,,,1,628000,AV,19,11,0,MAX of Power Demand,Value,30000,,,521236,521236,50,,0,9,,,,,128
+48,520200_Aitken Power Max Demand TL Archive,Aitken House electical demand max,128,0,1,,,1,628000,AV,16,11,0,MAX of System Power,Value,30000,,,521522,521522,50,,0,9,,,,,128
+49,310000_kWh since inception TL Archive,Primary A electrical consumption,128,0,1,,,1,310000,AV,90,11,0,kWh since inception,Value,90000,,,179236,179236,50,,0,9,,,,,128
+50,610000_OAT AVG 1hr TL Archive,Outside air temperature average one hour,128,0,1,,,1,610000,AV,3,11,0,OAT Average,Value,360000,,,46602,46602,50,,0,9,,,,,128
+51,520200_Head Hall Power Consumption TL Archive,Head Hall electrical consumption,128,0,1,,,1,520200,AV,1,11,0,Head Hall Consumption Total,Value,30000,,,530814,530814,50,,0,9,,,,,128
+52,310000_Primary A Lagged demand 15 min tl Archive,Primary A lagged demand,128,0,1,,,1,310000,AV,64,11,0,CURRENT KW lagged DEMAND,Value,90000,,,173681,173681,50,,0,9,,,,,128
+53,310003_LUD Library Temp TL Archive,Ludlow Law Library rare book room temperature,128,0,1,,,1,310003,AI,101,11,0,LUD Library Temp,Value,90000,,,172795,172795,50,,0,9,,,,,128
+54,310003_LUD Library humidity tl Archive,Ludlow Law Library rare book room humidity,128,0,1,,,1,310003,AI,102,11,0,LUD Library Humidity,Value,6000,,,2566954,2566954,50,,0,9,,,,,128
+55,520200_South Gym Consumption TL Archive,South Gym electrical consumption,128,0,1,,,1,598000,AV,10,11,0,,Value,90000,,,132386,132386,50,,0,9,,,,,128
+56,520200_South Gym Demand TL Archive,South Gym electrical demand sliding window,128,0,1,,,1,598000,AV,4,11,0,,Value,90000,,,132384,132384,50,,0,9,,,,,128
+57,150200_GH AH4 VFD TL Archive,Gillin Hall AH4 VFD value,128,0,1,,,1,150200,AO,9,11,0,GH AHU4 SF VFD,Value,360000,,,42343,42343,50,,0,9,,,,,128
+58,150100_GH AH3 VFD TL Archive,Gillin Hall AH3 VFD value,128,0,1,,,1,150100,AO,9,11,0,GH AHU3 SF VFD,Value,360000,,,42345,42345,50,,0,9,,,,,128
+59,430000_Neil Electric Meter Max Demand TL Archive,Neil House electrical demand max,128,0,1,,,1,438000,AI,37,11,0,,Value,90000,,,165233,165233,50,,0,9,,,,,128
+60,450000_Neville Electric Meter Max Demand TL Archive,Neville-Jones electrical demand max,128,0,1,,,1,458000,AI,37,11,0,KW_Max_Demand,Value,90000,,,164513,164513,50,,0,9,,,,,128
+61,520200_Aitken Center Power Consumption TL Archive,Aitken Center electrical consumpton,128,0,1,,,1,520200,AV,2,11,0,Aitken Center Consumption Total,Value,30000,,,473039,473039,50,,0,9,,,,,128
+62,520200_BMO Dome Power Consumption TL Archive,BMO Dome electrical consumption,128,0,1,,,1,520200,AV,3,11,0,BMO Dome Consumption Total,Value,30000,,,441902,441902,50,,0,9,,,,,128
+63,520200_Sir Howard Douglas Shark Power Meter Consumption TL Archive,Old Arts Shark meter electrical consumption,128,0,1,,,1,488000,AV,10,11,0,,Value,90000,,,136563,136563,50,,0,9,,,,,128
+64,520200_Enterprise UNB BLDG1 Power Consumption TL Archive,Enterprise building 1 electrical consumption,128,0,1,,,1,520200,AV,5,11,0,Enterprise UNB BLDG1 Consumption Total,Value,30000,,,473034,473034,50,,0,9,,,,,128
+65,520200_Currie Center Power Consumption TL Archive,Currie Center electrical consumption,128,0,1,,,1,520200,AV,6,11,0,Currie Center Consumption Total,Value,30000,,,473062,473062,50,,0,9,,,,,128
+66,520200_MacLaggan Hall Power Consumption TL Archive,MacLaggan electrical consumption,128,0,1,,,1,520200,AV,7,11,0,MacLaggan Hall Consumption Total,Value,30000,,,472986,472986,50,,0,9,,,,,128
+67,520200_Bank Book Store Power Consumption TL Archive,Bank Bookstore electrical consumption,128,0,1,,,1,520200,AV,8,11,0,Bank Book Store Consumption Total,Value,30000,,,473033,473033,50,,0,9,,,,,128
+68,520200_ITC Server Room Power Consumption TL Archive,ITC Server room electrical consumption,128,0,1,,,1,520200,AV,9,11,0,ITC Server Room Consumption Total,Value,30000,,,472986,472986,50,,0,9,,,,,128
+69,520200_Carleton Hall Power Consumption TL Archive,Carleton Hall electrical consumption,128,0,1,,,1,520200,AV,10,11,0,Carleton Hall Consumption Total,Value,30000,,,473033,473033,50,,0,9,,,,,128
+70,520200_Gillin Hall Power Consumption TL Archive,Gilling Hall electrical consumption,128,0,1,,,1,520200,AV,11,11,0,Gillin Hall Consumption Total,Value,30000,,,473033,473033,50,,0,9,,,,,128
+71,520200_Bailey Hall 208V Power Consumption TL Archive,Bailey Hall 208V electrical consumption,128,0,1,,,1,520200,AV,12,11,0,Bailey Hall Consumption Total,Value,30000,,,473034,473034,50,,0,9,,,,,128
+72,520200_Toole Hall Power Consumption TL Archive,Toole Hall Electrical Consumption,128,0,1,,,1,520200,AV,13,11,0,Toole Hall Consumption Total,Value,30000,,,473035,473035,50,,0,9,,,,,128
+73,520200_Sub Booster Juice Power Demand TL Archive,Sub Booster Juice electrical demand sliding window,128,0,1,,,1,568000,AV,19,11,0,,Value,30000,,,461873,461873,50,,0,9,,,,,128
+74,520200_Sub Booster Juice Power Max Demand TL Archive,Sub Booster Juice electrical demand max,128,0,1,,,1,568000,AV,19,11,0,,Value,30000,,,461872,461872,50,,0,9,,,,,128
+75,520200_Sub Booster Juice Power Consumption TL Archive,Sub Booster Juice electrical consumption,128,0,1,,,1,568000,AV,11,11,0,,Value,30000,,,461877,461877,50,,0,9,,,,,128
+76,580200_TH TOTAL CONDENSATE USED (LBS) 24H TL Archive,Tilley Hall total condensate (lbs),128,0,1,,,1,580200,AV,74,11,0,TH TOTAL CONDENSATE USED (LBS),Value,30000,,,473699,473699,50,,0,9,,,,,128
+77,120200_TOO TOTAL CONDENSATE USED (LBS) TL Archive,Toole Hall total condensate (lbs),128,0,1,,,1,120200,AV,135,11,0,TOTAL CONDENSATE USED (LBS),Value,30000,,,473617,473617,50,,0,9,,,,,128
+78,330100_KH TOTAL CONDENSATE USED (LBS) TL Archive,Keirstead Hall total condensate used (lbs),128,0,1,,,1,330100,AV,74,11,0,KH TOTAL CONDENSATE USED (LBS),Value,30000,,,471544,471544,50,,0,9,,,,,128
+79,60000_FOR GEO TOTAL CONDENSATE USED (LBS) TL Archive,Forestry Geology total condensate (lbs),128,0,1,,,1,60000,AV,201,11,0,FOR/GEO TOTAL CONDENSATE USED (LBS),Value,30000,,,472683,472683,50,,0,9,,,,,128
+80,60000_BB TOTAL CONDENSATE USED (LBS) TL Archive,Bank Bookstore total condensate (lbs),128,0,1,,,1,60000,AV,74,11,0,BB TOTAL CONDENSATE USED (LBS),Value,30000,,,473303,473303,50,,0,9,,,,,128
+81,310200_LUD TOTAL CONDENSATE USED (LBS) TL Archive,Ludlow total condensate (lbs),128,0,1,,,1,310200,AV,74,11,0,LUD Total Condensate Used (lbs),Value,30000,,,473770,473770,50,,0,9,,,,,128
+82,370000_MD TOTAL CONDENSATE USED (LBS) TL Archive,Marshall D'Avery total condensate (lbs),128,0,1,,,1,370000,AV,74,11,0,MD TOTAL CONDENSATE USED (LBS),Value,30000,,,457281,457281,50,,0,9,,,,,128
+83,40000_AXC TOTAL CONDENSATE USED (LBS) TL Archive,Annex C total condensate (lbs),128,0,1,,,1,40000,AV,74,11,0,AXC TOTAL CONDENSATE USED (LBS),Value,8640000,,,1796,1796,50,,0,9,,,,,128
+84,520020_SER TOTAL CONDENSATE USED (LBS) TL Archive,Services total condensate (lbs),128,0,1,,,1,520020,AV,74,11,0,SER TOTAL CONDENSATE USED (LBS),Value,30000,,,470988,470988,50,,0,9,,,,,128
+85,260000_JH TOTAL CONDENSATE USED (LBS) TL Archive,Jones House total condensate (lbs),128,0,1,,,1,260000,AV,74,11,0,JH Total Condensate Used (lbs),Value,30000,,,473350,473350,50,,0,9,,,,,128
+86,30000_MEM TOTAL CONDENSATE USED (LBS) TL Archive,Memorial Hall total condensate (lbs),128,0,1,,,1,30000,AV,74,11,0,MEM TOTAL CONDENSATE USED (LBS),Value,30000,,,473269,473269,50,,0,9,,,,,128
+87,210000_Enterprise TOTAL CONDENSATE USED (LBS) TL Archive,Enterprise total condensate (lbs),128,0,1,,,1,210000,AV,74,11,0,INC1 TOTAL CONDENSATE USED (LBS),Value,30000,,,473461,473461,50,,0,9,,,,,128
+88,430000_Bridges Total Condensate Used lbs Archive,Bridges total condensate (lbs),128,0,1,,,1,430000,AV,93,11,0,Bridges TOTAL CONDENSATE USED (LBS),Value,90000,,,157788,157788,50,,0,9,,,,,128
+89,520200_Sir Howard Douglas Shark Power Meter Demand TL Archive,Old Arts Shark meter electrical demand sliding window,128,0,1,,,1,488000,AV,4,11,0,,Value,90000,,,136570,136570,50,,0,9,,,,,128
+90,430000_MacKenzie Total Condensate Used lbs Archive,MacKenzie total condensate (lbs),128,0,1,,,1,430000,AV,94,11,0,MacKenzie TOTAL CONDENSATE USED (LBS),Value,90000,,,157788,157788,50,,0,9,,,,,128
+91,430000_Neil House Total Condensate Used lbs Archive,Neil House total condensate (lbs),128,0,1,,,1,430000,AV,95,11,0,Neil TOTAL CONDENSATE USED (LBS),Value,90000,,,157787,157787,50,,0,9,,,,,128
+92,450000_Harrison Total Condensate Used lbs Archive,Harrison total condensate (lbs),128,0,1,,,1,450000,AV,94,11,0,Harrison CONDENSATE USED (LBS),Value,90000,,,157871,157871,50,,0,9,,,,,128
+93,450000_Neville Total Condensate Used lbs Archive,Neville-Jones total condnesate (lbs),128,0,1,,,1,450000,AV,93,11,0,Neville TOTAL CONDENSATE USED (LBS),Value,90000,,,157871,157871,50,,0,9,,,,,128
+94,300100_DKT Total Condensate Used lbs Archive,DKT total condensate (lbs),128,0,1,,,1,300100,AV,51,11,0,DKT TOTAL CONDENSATE USED (LBS),Value,90000,,,157918,157918,50,,0,9,,,,,128
+95,390000_Mcon Total Condensate Used lbs Archive,McConnell total condensate (lbs),128,0,1,,,1,390000,AV,41,11,0,MCON TOTAL CONDENSATE USED (LBS),Value,90000,,,157901,157901,50,,0,9,,,,,128
+96,400000_Magee Mcleod P2Total Condensate Used lbs Archive,Magee McLoed PT2 total condensate (lbs),128,0,1,,,1,400000,AV,115,11,0,PT2 TOTAL CONDENSATE USED (LBS),Value,90000,,,157852,157852,50,,0,9,,,,,128
+97,400000_Magee Mcleod Total Condensate Used lbs Archive,McLeod Magee total condensate (lbs),128,0,1,,,1,400000,AV,135,11,0,TOTAL CONDENSATE USED (LBS),Value,90000,,,157852,157852,50,,0,9,,,,,128
+98,400000_Magee Mcleod P1Total Condensate Used lbs Archive,Magee McLoed PT1 total condensate (lbs),128,0,1,,,1,400000,AV,103,11,0,PT1 TOTAL CONDENSATE USED (LBS),Value,90000,,,157852,157852,50,,0,9,,,,,128
+99,650000_BMO Dome Total Condensate Used lbs Archive,BMO Dome total condensate (lbs),128,0,1,,,1,650000,AV,6,11,0,BMO Dome Cond PT Total Condensate Used (lbs.),Value,90000,,,157849,157849,50,,0,9,,,,,128
+100,510000_TOTAL CONDENSATE USED (LBS) TL Archive,Residence Administratin total condensate (lbs),128,0,1,,,1,510000,AV,16,11,0,TOTAL CONDENSATE USED (LBS),Value,30000,,,473092,473092,50,,0,9,,,,,128
+101,110100_CHP P2 TOTAL CONDENSATE USED (LBS) TL Archive,Central Heating Plant pump trap counter 2 total condenate (lbs),128,0,1,,,1,110100,AV,64,11,0,PT2 TOTAL CONDENSATE USED (LBS),Value,90000,,,157891,157891,50,,0,9,,,,,128
+102,110100_CHP TOTAL CONDENSATE USED (LBS) TL Archive,Central Heating Plant total condenate (lbs),128,0,1,,,1,110100,AV,85,11,0,TOTAL CONDENSATE USED (LBS),Value,90000,,,157894,157894,50,,0,9,,,,,128
+103,110100_CHP P1 TOTAL CONDENSATE USED (LBS) TL Archive,Central Heating Plant pump trap counter 1 total condenate (lbs),128,0,1,,,1,110100,AV,51,11,0,PT1 TOTAL CONDENSATE USED (LBS),Value,30000,,,473426,473426,50,,0,9,,,,,128
+104,160003_R522 Archive Unit RAT TL Archive,,128,0,1,2017-02-27 00:00:00,,1,160003,AI,5,11,0,R522 Archive Unit RAT,Value,6000,,,1096660,1096660,50,,0,9,,,,,32
+105,520200_Head Hall 208V Power Consumption TL Archive,Head Hall 208 volt electrical consumption,128,0,1,,,1,520200,AV,15,11,0,Head Hall 208V Consumption Total,Value,30000,,,10438,10438,50,,0,9,,,,,128
+106,520200_Elizabeth Parr Res Power Demand TL Archive,Elizabeth Parr Johnson electrical demand sliding window,128,0,1,,,1,638000,AV,4,11,0,,Value,30000,,,459902,459902,50,,0,9,,,,,128
+107,520200_Elizabeth Parr Res Power Max Demand TL Archive,Elizabeth Parr Johnson electrical demand max,128,0,1,,,1,638000,AV,24,11,0,,Value,30000,,,459899,459899,50,,0,9,,,,,128
+108,520200_Elizabeth Parr Res Power Consumption TL Archive,Elizabeth Parr Johnson electrical conssumption,128,0,1,,,1,638000,AV,10,11,0,,Value,30000,,,459902,459902,50,,0,9,,,,,128
+109,520200_McConnell Hall Power Demand TL Archive,McConnell electrical demand sliding window,128,0,1,,,1,398000,AV,4,11,0,,Value,30000,,,467062,467062,50,,0,9,,,,,128
+110,520200_McConnell Hall Power Max Demand TL Archive,McConnell electrical demand max,128,0,1,,,1,398000,AV,24,11,0,,Value,30000,,,467064,467064,50,,0,9,,,,,128
+111,520200_McConnal Hall Power Consumption TL Archive,McConnell electrical consumption,128,0,1,,,1,398000,AV,10,11,0,,Value,30000,,,467068,467068,50,,0,9,,,,,128
+112,330100_KH TOTAL Steam USED (LBS) TL Archive,Keirstead total condensate (lbs),128,0,1,,,1,330100,AV,173,11,0,KH TOTAL STEAM USED (LBS),Value,30000,,,471626,471626,50,,0,9,,,,,128
+113,400000_Mcleod Total Condensate Used lbs Archive,McLeod total condensate (lbs),128,0,1,,,1,400000,AV,136,11,0,McLeod TOTAL CONDENSATE USED (LBS),Value,90000,,,157360,157360,50,,0,9,,,,,128
+114,400000_Magee Total Condensate Used lbs Archive,Magee total condensate (lbs),128,0,1,,,1,400000,AV,137,11,0,McGee TOTAL CONDENSATE USED (LBS),Value,90000,,,157360,157360,50,,0,9,,,,,128
+115,380300_Harrington Total Steam Used (Ibs) TL Archive,Harrington Hall total condensate (lbs),128,0,1,,,1,380300,AV,124,11,0,Harrington TOTAL CONDENSATE USED (LBS),Value,0,,,448965,448965,45,,448965,9,,,,,128
+116,380300_Holy Cross Total Steam Used (Ibs) TL Archive,Holy Cross total condensate (lbs),128,0,1,,,1,380300,AV,125,11,0,Holy Cross TOTAL CONDENSATE USED (LBS),Value,0,,,151640,151640,45,,151605,9,,,,,128
+117,380300_Martin Total Steam Used (Ibs) TL Archive,Martin Hall total condensate (lbs),128,0,1,,,1,380300,AV,123,11,0,Martin TOTAL CONDENSATE USED (LBS),Value,0,,,414629,414629,45,,414630,9,,,,,128
+118,600000_VAN Total Condensate Used lbs TL Archive,Vanier Hall total condensate (lbs),128,0,1,,,1,600000,AV,74,11,0,VAN TOTAL CONDENSATE USED (LBS),Value,90000,,,157355,157355,50,,0,9,,,,,128
+119,600000_OFC Total Condensate Used lbs TL Archive,O'keefe total condensate (lbs),128,0,1,,,1,600000,AV,51,11,0,OFC TOTAL CONDENSATE USED (LBS),Value,90000,,,157353,157353,50,,0,9,,,,,128
+120,500000_STPS Total Condensate Used lbs TL Archive,Professional Studies total condnesate (lbs),128,0,1,,,1,500000,AV,51,11,0,STPS TOTAL CONDENSATE USED (LBS),Value,90000,,,157342,157342,50,,0,9,,,,,128
+121,640200_MNM Total Condensate Used lbs TL Archive,McCain total condnesate (lbs),128,0,1,,,1,640200,AV,51,11,0,MNM TOTAL CONDENSATE USED (LBS),Value,90000,,,156906,156906,50,,0,9,,,,,128
+122,490500_Eng TOTAL CONDENSATE USED (LBS) TL Archive,Old Engineering total condensate (lbs),128,0,1,,,1,490500,AV,35,11,0,TOTAL CONDENSATE USED (LBS),Value,30000,,,462470,462470,50,,0,9,,,,,128
+123,480001_TOTAL CONDENSATE USED (LBS) TL Archive,Old Arts total condensate (lbs),128,0,1,,,1,480001,AV,16,11,0,TOTAL CONDENSATE USED (LBS),Value,30000,,,469436,469436,50,,0,9,,,,,128
+124,480000_CUR TOTAL CONDENSATE USED (LBS) TL Archive,Currie total condensate (lbs),128,0,1,,,1,480000,AV,4,11,0,CUR Steam Condensate Meter pounds,Value,30000,,,469343,469343,50,,0,9,,,,,128
+125,520020_CHP Main Meter Power Consumption TL Archive,Central Heating Plant electrical consumption,128,0,1,,,1,520020,AV,95,11,0,CHP Main Meter Consumption Total,Value,30000,,,466912,466912,50,,0,9,,,,,128
+126,50200_BH E600 KW Demand TL Archive,Bailey Hall 600 volt electrical demand,128,0,1,,,1,50200,AV,66,11,0,BH E600 KW Total,Value,90000,,,156605,156605,50,,0,9,,,,,128
+127,290000_LBR Total Water consumption Archive,LB Residence water consumption,192,0,1,,,1,290000,AV,102,11,0,LBR Water meter consumption,Value,90000,,,148447,148447,45,,90,9,,,,,128
+128,370000_SG TOTAL CONDENSATE USED (LBS) TL Archive,South Gym total condensate (lbs),128,0,1,,,1,370000,AV,93,11,0,SG TOTAL CONDENSATE 33% USED (LBS),Value,30000,,,452474,452474,50,,0,9,,,,,128
+129,610000_Heat Degree Day TL Archive,Heat degree day,128,0,1,,,1,610000,AV,35,11,0,Heat Degree Day,Value,90000,,,162024,162024,50,,0,9,,,,,128
+130,610000_Heat Degree Day Yesterday TL Archive,heat degree day yesterday,128,0,1,,,1,610000,AV,36,11,0,Heat Degree Day Yesterday,Value,360000,,,38912,38912,50,,0,9,,,,,128
+131,480000_CUR Steam Condensate Meter pounds Yesterday TL Archive,Currie condensate usage yesterday,128,0,1,,,1,480000,AV,7,11,0,CUR Steam Condensate Meter pounds Yesterday,Value,0,,,1787,1787,180,,2656,9,,,,,128
+132,480000_CUR Steam Condensate Meter Baseline TL Archive,Currie condensate baseline,128,0,1,,,1,480000,AV,40,11,0,CUR Baseline Steam Normalized,Value,180000,,,77694,77694,90,,0,9,,,,,128
+133,480000_CUR Steam Condensate Meter Target TL Archive,currie condensate target,128,0,1,,,1,480000,AV,53,11,0,CUR Target Steam Normalized,Value,180000,,,77692,77692,90,,0,9,,,,,128
+134,520200_Head Hall Power Demand TL Archive,Head Hall electrical demand,128,0,1,,,1,520200,AV,16,11,0,Head Hall Demand,Value,90000,,,154536,154536,50,,0,9,,,,,128
+135,520200_Aitken Center Power Demand TL Archive,Aitken Center electrical demand sliding window,128,0,1,,,1,520200,AV,17,11,0,Aitken Center Demand,Value,90000,,,154534,154534,50,,0,9,,,,,128
+136,520200_BMO Dome Power Demand TL Archive,BMO Dome electrical demand sliding window,128,0,1,,,1,520200,AV,18,11,0,BMO Dome Demand,Value,90000,,,154534,154534,50,,0,9,,,,,128
+137,520200_CHP Main Power Demand TL Archive,Central Heating Plantelectrical demand sliding window,128,0,1,,,1,520200,AV,19,11,0,CHP Main Meter Demand,Value,90000,,,154534,154534,50,,0,9,,,,,128
+138,520200_Enterprise UNB BLDG1 Power Demand TL Archive,Enterprise building 1 electrical demand sliding window,128,0,1,,,1,520200,AV,20,11,0,Enterprise UNB BLDG1 Demand,Value,90000,,,154534,154534,50,,0,9,,,,,128
+139,520200_Currie Power Demand TL Archive,Currie electrical demand sliding window,128,0,1,,,1,520200,AV,21,11,0,Currie Center Demand,Value,90000,,,154534,154534,50,,0,9,,,,,128
+140,520200_MacLaggan Hall Power Demand TL Archive,MacLaggan electrical demand sliding window,128,0,1,,,1,520200,AV,22,11,0,MacLaggan Hall Demand,Value,90000,,,154534,154534,50,,0,9,,,,,128
+141,520200_Bank Book Store Power Demand TL Archive,Bank Bookstore electrical demand,128,0,1,,,1,520200,AV,23,11,0,Bank Book Store Demand,Value,90000,,,154534,154534,50,,0,9,,,,,128
+142,520200_ITC Server Room Power Demand TL Archive,ITC server room electrical demand,128,0,1,,,1,520200,AV,24,11,0,ITC Server Room Demand,Value,90000,,,154535,154535,50,,0,9,,,,,128
+143,520200_Carleton Hall Power Demand TL Archive,Carleton Hall electrical demand,128,0,1,,,1,520200,AV,25,11,0,Carleton Hall Demand,Value,90000,,,154534,154534,50,,0,9,,,,,128
+144,520200_Bailey Hall 208V Power Demand TL Archive,Bailey Hall 208V electrical demand,128,0,1,,,1,520200,AV,26,11,0,Bailey Hall 208V Demand,Value,90000,,,154535,154535,50,,0,9,,,,,128
+145,520200_Toole Hall Power Demand TL Archive,Toole Hall electrical demand,128,0,1,,,1,520200,AV,27,11,0,Toole Hall Demand,Value,90000,,,154537,154537,50,,0,9,,,,,128
+146,520200_Head Hall 208V Power Demand TL Archive,Head Hall 208V electrical demand,128,0,1,,,1,520200,AV,28,11,0,Head Hall 208V Demand,Value,90000,,,404,404,50,,0,9,,,,,128
+147,160003_R522 Archive Unit Suction TMP TL Archive,,128,0,1,2017-02-27 00:00:00,,1,160003,AI,4,11,0,R522 Archive Unit Suction TMP,Value,6000,,,1096489,1096489,50,,0,9,,,,,32
+148,610000_WU Rm22 Power Demand TL Archive,Wu room 22 electrical demand,128,0,1,,,1,618100,AV,19,11,0,,Value,30000,,,434464,434464,50,,0,9,,,,,128
+149,610000_WU Rm22 Power Consumption TL Archive,Wu room 22 electrical consumption,128,0,1,,,1,618100,AV,11,11,0,,Value,30000,,,434424,434424,50,,0,9,,,,,128
+150,190000_Old Eng Power Demand TL Archive,Old Engineering electrical demand,128,0,1,,,1,198000,AV,19,11,0,,Value,90000,,,158357,158357,50,,0,9,,,,,128
+151,160300_HIL R521 TL Archive,,128,0,1,2016-05-30 00:00:00,,1,160300,AI,201,11,0,HIL R521,Value,2160000,,,3206,3206,50,,0,9,,,,,32
+152,140000_Geology Power Demand TL Archive,Geology electrical demand,128,0,1,,,1,148000,AV,19,11,0,,Value,30000,,,459408,459408,50,,0,9,,,,,128
+153,140000_Geology Power Consumption TL Archive,Geology electrical consumption,128,0,1,,,1,148000,AV,11,11,0,,Value,30000,,,459419,459419,50,,0,9,,,,,128
+154,410000_Memorial Hall Power Demand TL Archive,Memorial Hall electrical demand,128,0,1,,,1,418000,AV,19,11,0,,Value,30000,,,440868,440868,50,,0,9,,,,,128
+155,410000_Memorial Hall Power Consumption TL Archive,Memorial Hall electrical consumption,128,0,1,,,1,418000,AV,11,11,0,,Value,30000,,,440868,440868,50,,0,9,,,,,128
+156,280000_LB Gym 600amp Power Demand TL Archive,LB Gym 600 amp electrical demand,128,0,1,,,1,288000,AV,4,11,0,,Value,30000,,,459632,459632,50,,0,9,,,,,128
+157,280000_LB Gym 600amp Power Consumption TL Archive,LB Gym 600 volt electrical consumption,128,0,1,,,1,288000,AV,10,11,0,,Value,30000,,,459632,459632,50,,0,9,,,,,128
+158,280000_LB Gym 400amp Power Demand TL Archive,LB Gym 400 amp electrical demand,128,0,1,,,1,288100,AV,4,11,0,,Value,30000,,,459597,459597,50,,0,9,,,,,128
+159,280000_LB Gym 400amp Power Consumption TL Archive,LB Gym 400 amp electrical consumption,128,0,1,,,1,288100,AV,10,11,0,,Value,30000,,,459645,459645,50,,0,9,,,,,128
+160,310000_Ludlow Power Demand TL Archive,Ludlow electrical demand,128,0,1,,,1,318000,AV,4,11,0,,Value,90000,,,156836,156836,50,,0,9,,,,,128
+161,310000_Ludlow Power Consumption TL Archive,Ludlow electrical consumption,128,0,1,,,1,318000,AV,10,11,0,,Value,30000,,,460074,460074,50,,0,9,,,,,128
+162,370000_Marshall DAvery 1000amp Power Demand TL Archive,Marshall D'avery 1000 amp electrical demand,128,0,1,,,1,378000,AV,4,11,0,,Value,30000,,,443756,443756,50,,0,9,,,,,128
+163,370000_Marshall DAvery 1200amp Power Consumption TL Archive,Marshall D'avery 1200 amp electrical consumption,128,0,1,,,1,378100,AV,10,11,0,,Value,30000,,,443781,443781,50,,0,9,,,,,128
+164,370000_Marshall DAvery 1200amp Power Demand TL Archive,Marshall D'avery 1200 amp electrical demand,128,0,1,,,1,378100,AV,4,11,0,,Value,30000,,,443811,443811,50,,0,9,,,,,128
+165,370000_Marshall DAvery 1000amp Power Consumption TL Archive,Marshall D'avery 1200 amp electrical consumption,128,0,1,,,1,378000,AV,10,11,0,,Value,30000,,,443801,443801,50,,0,9,,,,,128
+166,560501_SUB Convenience kwh consumption Archive,SUB convenience store electrical consumption,128,0,1,,,1,560501,AV,75,11,0,SUB Convenience Kwh,Value,90000,,,153747,153747,50,,0,9,,,,,32
+167,70000_RN Scott Power Demand TL Archive,RN Scott electrical demand,128,0,1,,,1,78000,AV,4,11,0,,Value,30000,,,459078,459078,50,,0,9,,,,,128
+168,70000_RN Scott Power Consumption TL Archive,RN Scott electrical consumption,128,0,1,,,1,78000,AV,10,11,0,,Value,30000,,,459078,459078,50,,0,9,,,,,128
+169,330000_Keirstead 800amp Power Demand TL Archive,Keirstead 800 amp electrical demand,128,0,1,,,1,338000,AV,4,11,0,,Value,30000,,,455866,455866,50,,0,9,,,,,128
+170,330000_Keirstead 400amp Power Consumption TL Archive,Keirstead 400 amp electrical consumption,128,0,1,,,1,338100,AV,10,11,0,,Value,30000,,,455833,455833,50,,0,9,,,,,128
+171,330000_Keirstead 400amp Power Demand TL Archive,Keirstead 400 amp electrical demand,128,0,1,,,1,338100,AV,4,11,0,,Value,30000,,,455832,455832,50,,0,9,,,,,128
+172,330000_Keirstead 800amp Power Consumption TL Archive,Keirstead 800 amp electrical consumption,128,0,1,,,1,338000,AV,10,11,0,,Value,30000,,,455865,455865,50,,0,9,,,,,128
+173,240000_IUC Physics 208v Power Demand TL Archive,IUC Physics 208V electrical demand,128,0,1,,,1,248000,AV,19,11,0,,Value,30000,,,438125,438125,50,,0,9,,,,,128
+174,240000_IUC Physics 600v Power Consumption TL Archive,IUC Physics 600 volt electrical consumption,128,0,1,,,1,248100,AV,11,11,0,,Value,30000,,,457637,457637,50,,0,9,,,,,128
+175,240000_IUC Physics 600v Power Demand TL Archive,IUC Physics 600 volt electrical demand,128,0,1,,,1,248100,AV,19,11,0,,Value,30000,,,457576,457576,50,,0,9,,,,,128
+176,240000_IUC Physics 208v Power Consumption TL Archive,IUC Physics 208 volt electrical consumption,128,0,1,,,1,248000,AV,11,11,0,,Value,30000,,,438098,438098,50,,0,9,,,,,128
+177,40000_Annex C Power Demand TL Archive,Annex C electrical demand,128,0,1,,,1,48000,AV,19,11,0,,Value,30000,,,429999,429999,50,,0,9,,,,,128
+178,40000_Annex C Power Consumption TL Archive,Annex C electrical consumption,128,0,1,,,1,48000,AV,11,11,0,,Value,30000,,,429999,429999,50,,0,9,,,,,128
+179,560000_SUB 400amp Power Demand TL Archive,SUB 400 amp electrical demand,128,0,1,,,1,568100,AV,4,11,0,,Value,30000,,,456931,456931,50,,0,9,,,,,128
+180,560000_SUB 400amp Power Consumption TL Archive,SUB 400 amp electrical consumption,128,0,1,,,1,568100,AV,10,11,0,,Value,30000,,,456930,456930,50,,0,9,,,,,128
+181,160000_HIL 600v Power Demand TL Archive,Harriet Irving Library 600 volt electrical demand,128,0,1,,,1,168300,AV,19,11,0,,Value,30000,,,430354,430354,50,,0,9,,,,,128
+182,160000_HIL 600v Power Consumption TL Archive,Harriet Irving Library 600 volt electrical consumption,128,0,1,,,1,168300,AV,11,11,0,,Value,30000,,,430552,430552,50,,0,9,,,,,128
+183,230000_IUC Forestry 600v Power Demand TL Archive,IUC Forestry 600 volt electrial demand,128,0,1,,,1,238000,AV,19,11,0,,Value,30000,,,447602,447602,50,,0,9,,,,,128
+184,230000_IUC Forestry 208v Power Consumption TL Archive,IUC Forestry 208 volt electrical consumption,128,0,1,,,1,238100,AV,11,11,0,,Value,30000,,,459510,459510,50,,0,9,,,,,128
+185,230000_IUC Forestry 208v Power Demand TL Archive,IUC FOrestry 208 volt electrical demand,128,0,1,,,1,238100,AV,19,11,0,,Value,30000,,,459510,459510,50,,0,9,,,,,128
+186,230000_IUC Forestry 600v Power Consumption TL Archive,IUC Forestry 600 volt electrical consumption,128,0,1,,,1,238000,AV,11,11,0,,Value,30000,,,447603,447603,50,,0,9,,,,,128
+187,520200_Magee House Power Demand TL Archive,Magee House electrical demand,128,0,1,,,1,358100,AV,4,11,0,,Value,30000,,,459082,459082,50,,0,9,,,,,128
+188,520200_Magee House Power Consumption TL Archive,Magee House electrical consumption,128,0,1,,,1,358100,AV,10,11,0,,Value,30000,,,459082,459082,50,,0,9,,,,,128
+189,520200_Jones Power Demand TL Archive,Jones House electrical demand,128,0,1,,,1,520200,AV,30,11,0,Jones House Meter Demand,Value,30000,,,460375,460375,50,,0,9,,,,,128
+190,520200_Jones Power Consumption TL Archive,Jones House electrical consumption,128,0,1,,,1,520200,AV,29,11,0,Jones House Consumption Total,Value,30000,,,460376,460376,50,,0,9,,,,,128
+191,50200_BH 600v kwh TL Archive,Bailey Hall 600 volt electrial consumption,128,0,1,,,1,50200,AV,83,11,0,BH 600 Volt consumption,Value,90000,,,153330,153330,50,,0,9,,,,,128
+192,160000_HIL 208v Power Demand TL Archive,Harriet Irving Library 208 volt electrical demand,128,0,1,,,1,168100,AV,19,11,0,,Value,30000,,,438232,438232,50,,0,9,,,,,128
+193,160000_HIL 208v Power Consumption TL Archive,Harriet Irving Library 208 volt electrical consumption,128,0,1,,,1,168100,AV,11,11,0,,Value,30000,,,438076,438076,50,,0,9,,,,,128
+194,610300_WU MAX CURRENT KW instant DEMAND TL Archive,Wu electrical demand max,128,0,1,,,1,610300,AV,66,11,0,MAX CURRENT KW instant DEMAND,Value,0,,,607727,607727,45,,622151,9,,,,,128
+195,400000_ RPC Total Steam TL Archive,,128,0,1,2018-06-27 00:00:00,,1,400000,AV,11,11,0, RPC Total Steam,Value,90000,,,26808,26808,50,,0,9,,,,,128
+196,400000_DECH Total Condensate TL Archive,,128,0,1,2018-06-27 00:00:00,,1,400000,AV,15,11,0,DECH Total Condensate,Value,90000,,,26808,26808,50,,0,9,,,,,128
+197,610300_Wu CURRENT KW lagged DEMAND 15m TL Archive,,128,0,1,,,1,610300,AV,64,11,0,CURRENT KW lagged DEMAND,Value,90000,,,38934,38934,50,,0,9,,,,,128
+198,370000_MD TOTAL CONDENSATE USED (LBS) 67% TL Archive,Marshall D'Avery total condensate (lbs),128,0,1,,,1,370000,AV,92,11,0,MD TOTAL CONDENSATE 67% USED (LBS),Value,90000,,,145859,145859,50,,0,9,,,,,128
+199,210000_Ent UNB BLDG1 Acc Power Demand TL Archive,Enerprise building 1 electrical demand,128,0,1,,,1,218100,AV,19,11,0,,Value,30000,,,450257,450257,50,,0,9,,,,,128
+200,210000_Ent UNB BLDG1 Acc Power Consumption TL Archive,Enerprise building 1 electrical consumption,128,0,1,,,1,218100,AV,11,11,0,,Value,30000,,,450255,450255,50,,0,9,,,,,128
+201,520000_SER R115 Archive,Facility Management room 115 temperature,128,0,1,,,1,520017,AI,1,11,0,Temperature,Value,90000,,,153681,153681,50,,0,9,,,,,128
+202,590200_SG Total Water TL Archive,,192,0,1,,,1,590200,AV,56,11,0,SG Water Total,Value,90000,,,64115,64115,50,,0,9,,,,,128
+203,370000_MD Total Water TL Archive,,128,0,1,2017-03-28 00:00:00,,1,370000,AV,196,11,0,MD Water Total,Value,90000,,,70538,70538,50,,0,9,,,,,128
+204,20000_AUC Total Water TL Archive,,192,0,1,2017-03-28 00:00:00,,1,20000,AV,56,11,0,AUC Water Total,Value,90000,,,40467,40467,50,,0,9,,,,,128
+205,150400_GH Total Water TL Archive,,128,0,1,2017-03-28 00:00:00,,1,150400,AV,56,11,0,GH Water Total,Value,90000,,,67661,67661,50,,0,9,,,,,128
+206,220000_ITS Total Water TL Archive,,128,0,1,2017-03-28 00:00:00,,1,220000,AV,56,11,0,ITS Water Total,Value,90000,,,70138,70138,50,,0,9,,,,,128
+207,400000_DECH Total Steam TL Archive,,128,0,1,2018-06-27 00:00:00,,1,400000,AV,16,11,0,DECH Total Steam,Value,90000,,,26808,26808,50,,0,9,,,,,128
+208,630001_EPJ Water Total TL Archive,,128,0,1,2017-04-03 00:00:00,,1,630001,AV,4,11,0,EPJ Total Water,Value,90000,,,69883,69883,50,,0,9,,,,,128
+209,80001_MKNZ Water Total TL Archive,,128,0,1,2017-05-24 00:00:00,,1,80001,AV,3,11,0,MKNZ Water Total,Value,90000,,,64931,64931,50,,0,9,,,,,32
+210,160300_HIL R522 TL Archive,,128,0,1,2016-05-30 00:00:00,,1,160300,AI,301,11,0,HIL R522,Value,2160000,,,3206,3206,50,,0,9,,,,,32
+211,20000_AUC TOTAL CONDENSATE USED (LBS) TL Archive,Aitken Center total condensate (lbs),192,0,1,,,1,20000,AV,17,11,0,AUC Total Condensate Used,Value,90000,,,120314,120314,50,,0,9,,,,,128
+212,300000_DKT Water Consumption TL Archive,Dunn Tibbets Kidd water consumption,128,0,1,,,1,300000,AV,64,11,0,DKT Water Consumption,Value,90000,,,149960,149960,9,,0,9,,,,,128
+213,230000_IUC Forestry 600v SWD Demand TL Archive,IUC Forestry 600 volt electrical demand sliding window,128,0,1,,,1,238000,AV,4,11,0,,Value,90000,,,132313,132313,50,,0,9,,,,,128
+214,230000_IUC Forestry 208v SWD Demand TL Archive,IUC Forestry 208 volt electrical demand sliding window,128,0,1,,,1,238100,AV,4,11,0,,Value,90000,,,136236,136236,50,,0,9,,,,,128
+215,240000_IUC Physics 208v SWD Demand TL Archive,IUC Physics 208 volt electrical demand sliding window,128,0,1,,,1,248000,AV,4,11,0,,Value,90000,,,129126,129126,50,,0,9,,,,,128
+216,240000_IUC Physics 600v SWD Demand TL Archive,IUC Physics 600 volt electrical demand sliding window,128,0,1,,,1,248000,AV,4,11,0,,Value,90000,,,129128,129128,50,,0,9,,,,,128
+217,90200_CTN Total Condensate TL Archive,Carleton total condensate (lbs),128,0,1,,,1,90200,AV,65,11,0,CTN TOTAL CONDENSATE USED,Value,90000,,,210993,210993,50,,0,9,,,,,128
+218,50500_BH TOTAL CONDENSATE USED today TL Archive,,128,0,1,2017-07-09 00:00:00,,1,50500,AV,75,11,0,BH TOTAL CONDENSATE USED today,Value,6000,,,908692,908692,50,,0,9,,,,,128
+219,50500_BH TOTAL CONDENSATE USED yesterday TL Archive,,128,0,1,2017-07-09 00:00:00,,1,50500,AV,78,11,0,BH TOTAL CONDENSATE USED yesterday,Value,0,,,581,581,45,,563,9,,,,,128
+220,190000_Old Eng Power Consumption TL Archive,Old Engineering electrical consumption,128,0,1,,,1,198000,AV,11,11,0,,Value,90000,,,143479,143479,50,,0,9,,,,,128
+221,660000_CUR Cond LWT TL Archive,Currie condenser leaving water temperature,128,0,1,,,1,660000,AV,5,11,0,CUR Condenser LWT,Value,90000,,,134648,134648,50,,0,9,,,,,128
+222,520200_Tilley Singer 800amp Power Consumption TL Archive,Tilley Singer 800amp electrical consumption,128,0,1,,,1,588000,AV,10,11,0,,Value,90000,,,145132,145132,50,,0,9,,,,,128
+223,50500_BH TOTAL CONDENSATE USED day before YESTERDAY TL Archive,,128,0,1,2017-07-09 00:00:00,,1,50500,AV,79,11,0,BH TOTAL CONDENSATE USED day before YESTERDAY,Value,0,,,580,580,45,,562,9,,,,,128
+224,50500_BH TOTAL CONDENSATE USED at MIDNIGHT TL Archive,,128,0,1,2017-07-09 00:00:00,,1,50500,AV,80,11,0,BH TOTAL CONDENSATE USED at MIDNIGHT,Value,0,,,591,591,45,,573,9,,,,,128
+225,50500_BH TOTAL CONDENSATE USED today cost TL Archive,,128,0,1,2017-07-09 00:00:00,,1,50500,AV,82,11,0,BH TOTAL CONDENSATE USED today cost,Value,360000,,,15200,15200,50,,0,9,,,,,128
+226,520200_Bailey Hall Ion Meter AV3 TL Archive,,128,0,1,2015-01-12 00:00:00,,1,58200,AV,3,11,0,,Value,90000,,,120076,120076,50,,0,9,,,,,128
+227,520200_Bailey Hall Ion Meter AV4 TL Archive,,128,0,1,2015-01-12 00:00:00,,1,58200,AV,4,11,0,,Value,90000,,,120077,120077,50,,0,9,,,,,128
+228,50500_BH TOTAL CONDENSATE USED day before YESTERDAY cost TL Archive,,128,0,1,2017-07-09 00:00:00,,1,50500,AV,83,11,0,BH TOTAL CONDENSATE USED day before YESTERDAY cost,Value,0,,,568,568,45,,551,9,,,,,128
+229,660000_CUR Cond  EWT TL Archive,Currie condenser entering water temperature,128,0,1,,,1,660000,AV,4,11,0,CUR Condenser EWT,Value,90000,,,134649,134649,50,,0,9,,,,,128
+230,660000_CUR Tower EWT TL Archive,Currie cooling tower entering water temperature,128,0,1,,,1,660000,AV,2,11,0,CUR Tower EWT,Value,90000,,,134649,134649,50,,0,9,,,,,128
+231,520200_Gillin Hall Power Demand TL Archive,Gillin electrical consumption,128,0,1,,,1,520200,AV,14,11,0,Gillin Hall Main Meter Demand,Value,90000,,,142427,142427,50,,0,9,,,,,128
+232,520200_Tilley Singer 800amp Power Demand TL Archive,Tilley Singer 800amp electrical demand,128,0,1,,,1,588000,AV,4,11,0,,Value,90000,,,142156,142156,50,,0,9,,,,,128
+233,160300_HIL R521 HUM TL Archive,,128,0,1,2016-05-30 00:00:00,,1,160300,AI,202,11,0,HIL R521 HUM,Value,2160000,,,3206,3206,50,,0,9,,,,,32
+234,660000_CUR Tower LWT TL Archive,Currie cooling tower leaving water temperature,128,0,1,,,1,660000,AV,3,11,0,CUR Tower LWT,Value,90000,,,133029,133029,50,,0,9,,,,,128
+235,660000_CUR AH6 VFD input ref TL Archive,Currie AH6 VFD input reference,128,0,1,,,1,664390,AV,16,11,0,,Value,30000,,,396708,396708,50,,0,9,,,,,128
+236,520200_Gillen Hall 208 Power Meter Demand TL Archive,Gillin Hall 208 volt electrical demand,128,0,1,,,1,158200,AV,19,11,0,,Value,90000,,,140103,140103,50,,0,9,,,,,128
+237,520200_Gillen Hall 600 Power Meter Consumption TL Archive,Gillin Hall 600 volt electrical consumption,128,0,1,,,1,158100,AV,11,11,0,,Value,90000,,,140877,140877,50,,0,9,,,,,128
+238,520200_Gillen Hall 600 Power Meter Demand TL Archive,Gillin Hall 600 volt electrical demand,128,0,1,,,1,158100,AV,19,11,0,,Value,90000,,,140877,140877,50,,0,9,,,,,128
+239,660000_CUR AH6 VFD output ref TL Archive,Currie AH6 VFD output reference,128,0,1,,,1,664390,AV,1,11,0,,Value,30000,,,396711,396711,50,,0,9,,,,,128
+240,660000_CUR AH6 VFD start ref TL Archive,Currie AH6 VFD start reference,128,0,1,,,1,664390,BV,10,11,0,,Value,0,,,3104,3104,45,,1935,9,,,,,128
+241,520200_Sir Howard Douglas Main Power Meter Consumption TL Archive,Old Arts electrical consumption,128,0,1,,,1,480800,AV,11,11,0,,Value,90000,,,140463,140463,50,,0,9,,,,,128
+242,520200_Sir Howard Douglas Main Power Meter Demand TL Archive,Old Arts electrical demand,128,0,1,,,1,480800,AV,19,11,0,,Value,90000,,,140463,140463,50,,0,9,,,,,128
+243,520200_Gillen Hall 208 Power Meter Consumption TL Archive,Gillin Hall 208 volt electrical consumption,128,0,1,,,1,158200,AV,11,11,0,,Value,90000,,,140103,140103,50,,0,9,,,,,128
+244,520200_ITC Main Power Meter Consumption TL Archive,ITC electrical consumption,128,0,1,,,1,228200,AV,11,11,0,,Value,90000,,,132948,132948,50,,0,9,,,,,128
+245,520200_ITC Main Power Meter Demand TL Archive,ITC electrical demand,128,0,1,,,1,228200,AV,19,11,0,,Value,90000,,,132948,132948,50,,0,9,,,,,128
+246,610300_Wu CURRENT KW instant DEMAND 15m TL Archive,Wu instant electrical demand,128,0,1,,,1,610300,AV,65,11,0,CURRENT KW instant DEMAND,Value,90000,,,141761,141761,50,,0,9,,,,,128
+247,520200_Tilley Singer 200amp Power Consumption TL Archive,Tilley Singer 200amp electrical consumption,128,0,1,,,1,588100,AV,10,11,0,,Value,90000,,,141725,141725,50,,0,9,,,,,128
+248,520200_Tilley Singer 200amp Power Demand TL Archive,Tilley Singer 200amp electrical demand,128,0,1,,,1,588100,AV,4,11,0,,Value,90000,,,141725,141725,50,,0,9,,,,,128
+249,660000_CUR AH6 VFD Alerton start ref TL Archive,Currie AH6 VFD alerton start reference,128,0,1,,,1,664300,BV,8001,11,0,,Value,0,,,3036,3036,45,,1845,9,,,,,128
+250,660000_CUR AH6 VFD Alerton status ref TL Archive,Currie AH6 VFD alerton status,128,0,1,,,1,664300,BV,8051,11,0,,Value,0,,,3053,3053,45,,1890,9,,,,,128
+251,660000_CUR AH6 SPS TL Archive,Currie AH6 static pressure sensor,128,0,1,,,1,664632,AI,3,11,0,,Value,30000,,,395900,395900,50,,0,9,,,,,128
+252,660000_CUR CHILLER DISCHARGE TMP TL Archive,Currie chiller discharge refrigerant temperature,128,0,1,,,1,66,AI,56,11,0,,Value,90000,,,118487,118487,50,,0,9,,,,,128
+253,660000_CUR OAT TL Archive,Currie outside air temperature,128,0,1,,,1,610000,AV,3,11,0,OAT Average,Value,60000,,,197721,197721,50,,0,9,,,,,128
+254,660000_CUR Evap leaving temperature Archive,Currie evaporator leaving temperature,128,0,1,,,1,66,AI,45,11,0,,Value,90000,,,117838,117838,50,,0,9,,,,,128
+255,660000_CUR Chiller start Archive,Currie chiller start command,128,0,1,,,1,66,BO,1,11,0,,Value,0,,,2457,2457,45,,1125,9,,,,,128
+256,660000_CUR Evap entering temperature Archive,Currie evaporator entering temperature,128,0,1,,,1,66,AI,44,11,0,,Value,90000,,,117839,117839,50,,0,9,,,,,128
+257,480000_CUR Chiller q tons TL Archive,Currie chiller in tons,128,0,1,,,1,480000,AV,18,11,0,CUR Chiller q tons,Value,90000,,,132536,132536,50,,0,9,,,,,128
+258,160300_HIL R522 HUM TL Archive,,128,0,1,,,1,160300,AI,302,11,0,HIL R522 HUM,Value,2160000,,,3206,3206,50,,0,9,,,,,32
+259,160003_R522 Archive Unit SPC TMP TL Archive,,128,0,1,2017-03-01 00:00:00,,1,160003,AV,5,11,0,SPC TMP,Value,30000,,,218784,218784,50,,0,9,,,,,32
+260,520200_Lady Beaverbrook Res SWD Power Demand TL Archive Archive,Lady Beaverbrook Residence electrical demand sliding window,128,0,1,,,1,298000,AV,4,11,0,,Value,30000,,,328660,328660,50,,0,9,,,,,128
+261,520200_Residence Admin Demand Archive,Residence Administration electrical demand,128,0,1,,,1,518000,AV,4,11,0,,Value,90000,,,124187,124187,50,,0,9,,,,,128
+262,520200_Residence Admin Consumption Archive,Residence Administration electrical consumption,128,0,1,,,1,518000,AV,11,11,0,,Value,90000,,,124188,124188,50,,0,9,,,,,128
+263,520200_Gillen Hall 600 SWD Power Meter Demand TL Archive,Gillin Hall 600 volt electrical demand sliding window,128,0,1,,,1,158100,AV,4,11,0,,Value,90000,,,123922,123922,50,,0,9,,,,,128
+264,520200_Gillen Hall 208 SWD Power Meter Demand TL Archive,Gillin Hall 208 volt electrical demand sliding window,128,0,1,,,1,158200,AV,4,11,0,,Value,90000,,,123140,123140,50,,0,9,,,,,128
+265,520200_Campus House Electrical SWD Demand Archive,Campus House electrical demand sliding window,128,0,1,,,1,678000,AV,4,11,0,,Value,90000,,,118872,118872,50,,0,9,,,,,128
+266,520200_Campus House Electrical Max Demand Archive,Campus House electrical demand max,128,0,1,,,1,678000,AV,19,11,0,,Value,90000,,,118872,118872,50,,0,9,,,,,128
+267,520200_Campus House Electrical Consumption Archive,Campus House electrical consumption,128,0,1,,,1,678000,AV,11,11,0,,Value,90000,,,118876,118876,50,,0,9,,,,,128
+268,520200_Bailey Hall 208V Accuvim demand Archive,Bailey Hall 208 volt electrical demand,128,0,1,,,1,58300,AV,4,11,0,,Value,90000,,,121884,121884,50,,0,9,,,,,128
+269,520200_Bailey Hall 208V Accuvim consumption Archive,Bailey Hall electrical consumption,128,0,1,,,1,58300,AV,11,11,0,,Value,90000,,,121881,121881,50,,0,9,,,,,128
+270,370301_MD AH1 Airflow(Y) TL Archive,Marshall D'Avery AH1 airflow,128,0,1,,,1,370301,AV,5,11,0,MD AH1 Airflow(Y),Value,6000,,,1092986,1092986,50,,0,9,,,,,128
+271,370301_MD AH1 Solar Wall BTU TL Archive,Marshall D'Avery AH1 solar wall btu,128,0,1,,,1,370301,AV,10,11,0,MD AH1 Solar Wall BTU,Value,6000,,,1093405,1093405,50,,0,9,,,,,128
+272,370301_MD AH1 Solar Wall dollars saved TL Archive,Marshall D'Avery AH1 solar wall dollars saved,128,0,1,,,1,370301,AV,23,11,0,MD AH1 Solar Wall dollars saved,Value,6000,,,1093378,1093378,50,,0,9,,,,,128
+273,370301_MD AH2 Airflow(Y) TL Archive,MArshall D'Avery AH2 airflow,128,0,1,,,1,370301,AV,18,11,0,MD AH2 Airflow(Y),Value,6000,,,1093400,1093400,50,,0,9,,,,,128
+274,370301_MD AH2 Solar Wall BTU TL Archive,Marshall D'Avery AH2 solar wall btu,128,0,1,,,1,370301,AV,13,11,0,MD AH2 Solar Wall BTU,Value,6000,,,1093375,1093375,50,,0,9,,,,,128
+275,370301_MD AH2 Solar Wall dollars saved TL Archive,Marshall D'Avery AH2 solar wall dollars saved,128,0,1,,,1,370301,AV,33,11,0,MD AH2 Solar Wall dollars saved,Value,6000,,,1093402,1093402,50,,0,9,,,,,128
+276,560000_SUB 1000amp Power Consumption TL Archive,SUB 1000amp electrical consumption,128,0,1,,,1,568200,AV,10,11,0,,Value,90000,,,117608,117608,50,,0,9,,,,,128
+277,560000_SUB 1000amp Power Demand TL Archive,SUB 1000amp electrical demand,128,0,1,,,1,568200,AV,4,11,0,,Value,90000,,,117597,117597,50,,0,9,,,,,128
+278,20000_Ice Temperature TL Archive,Aitken Center ice temperature,192,0,1,,,1,24100,AV,15,11,0,,Value,360000,,,13462,13462,50,,0,9,,,,,128
+279,20000_AUC Ice Current Setpoint TL Archive,Aitken Center current set point,192,0,1,,,1,24100,AV,52,11,0,,Value,360000,,,12556,12556,50,,0,9,,,,,128
+280,20000_AUC Rink Humidity TL Archive,Aitken Center rink humidity,128,0,1,,,1,20100,AI,10,11,0,AUC Rink Humidity,Value,360000,,,30387,30387,50,,0,9,,,,,128
+281,400000_SOIL LAB Total Condensate TL Archive,,128,0,1,2018-06-27 00:00:00,,1,400000,AV,17,11,0,SOIL LAB Total Condensate,Value,90000,,,26808,26808,50,,0,9,,,,,128
+282,480000_CUR Net Condensate TL Archive,,,0,1,2019-02-07 00:00:00,,1,480000,AV,54,11,0,CUR Net Condensate,Value,60000,,,7792,7792,50,,0,9,,,,,32
+283,160200_HIL Aliant Electrical total energy2 tl Archive,,128,0,1,2016-10-25 00:00:00,,1,160200,AV,65,11,0,HIL Aliant Total Energy2,Value,30000,,,219199,219199,50,,0,9,,,,,32
+284,680000_Kin Total Water TL Archive,,128,0,1,2018-11-27 00:00:00,,1,680000,AV,20,11,0,KIN Total Water,Value,90000,,,12096,12096,50,,0,9,,,,,128
+285,680000_KIN LEED DOAS1 RAT TL Archive,,128,0,1,,,1,680000,AI,1102,11,0,KIN DOAS1 RAT,Value,90000,,,12108,12108,50,,0,9,,,,,128
+286,20000_AUC Hockey game day tl Archive,Aitken Center game day,128,0,1,,,1,20000,CAL,1,11,0,AUC Hockey Game Day,Value,0,,,90,90,45,,90,9,,,,,128
+287,230101_IUF DHW Consumption TL Archive,IUC Forestry domestic hot water consumption,128,0,1,,,1,230101,AV,1,11,0,IUF DHW Consumption,Value,90000,,,109775,109775,50,,0,9,,,,,128
+288,140000_GEO condensate TL Archive,Geology total condensate (lbs),128,0,1,,,1,140000,AV,18,11,0,Geo total condensate,Value,90000,,,117041,117041,50,,0,9,,,,,128
+289,20100_AUC AH1 Supply Air Temp TL Archive,Aitken Center AH1 supply air temperature,128,0,1,,,1,20100,AI,1,11,0,AUC AH1 Supply Air Temp,Value,90000,,,115428,115428,50,,0,9,,,,,128
+290,20100_AUC AH1 Return Air Temp TL Archive,Aitken Center AH1 return air temperature,128,0,1,,,1,20100,AI,2,11,0,AUC AH1 Return Air Temp,Value,90000,,,115429,115429,50,,0,9,,,,,128
+291,20100_AUC AH1 Mixed Air Temp TL Archive,Aitken Center AH1 mixed air temperature,128,0,1,,,1,20100,AI,3,11,0,AUC AH1 Mixed Air Temp,Value,90000,,,115428,115428,50,,0,9,,,,,128
+292,20100_AUC AH1 CO2 TL Archive,Aitkne Center AH1 CO2,128,0,1,,,1,20100,AI,4,11,0,AUC AH1 CO2,Value,90000,,,115428,115428,50,,0,9,,,,,128
+293,20100_AUC AH1 Space Temp TL Archive,Aitken Center AH1 space temperature,128,0,1,,,1,20100,AI,9,11,0,AUC AH1 Space Temp,Value,90000,,,115428,115428,50,,0,9,,,,,128
+294,20100_AUC AH1 Heating Valve TL Archive,Aitken Center AH1 heating valve,128,0,1,,,1,20100,AO,2,11,0,AUC AH1 Heating Valve,Value,90000,,,115429,115429,50,,0,9,,,,,128
+295,20100_AUC AH1 VFD Fan Starter TL Archive,Aitken Center AH1 VFD fan start command,128,0,1,,,1,20100,BV,16,11,0,AUC AH1 VFD Fan Starter,Value,0,,,3796,3796,22,,5771,9,,,,,128
+296,20100_AUC AH1 Fan VFD Status TL Archive,Aitken Center AH1 fan VFD status,128,0,1,,,1,20100,AV,32,11,0,AUC AH1 Fan VFD Status,Value,90000,,,115429,115429,225,,0,9,,,,,128
+297,20200_AUC AH2 Supply Air Temp TL Archive,Aitken Center AH2 supply air temperature,128,0,1,,,1,20200,AI,1,11,0,AUC AH2 Supply Air Temp,Value,90000,,,115435,115435,50,,0,9,,,,,128
+298,20200_AUC AH2 Return Air Temp TL Archive,Aitken Center AH2 return air temperature,128,0,1,,,1,20200,AI,2,11,0,AUC AH2 Return Air Temp,Value,90000,,,115435,115435,50,,0,9,,,,,128
+299,20200_AUC AH2 Mixed Air Temp TL Archive,AUC AH2 mixed air temperature,128,0,1,,,1,20200,AI,3,11,0,AUC AH2 Mixed Air Temp,Value,90000,,,115435,115435,50,,0,9,,,,,128
+300,20200_AUC AH2 CO2 TL Archive,Aitken Center AH2 CO2,128,0,1,,,1,20200,AI,4,11,0,AUC AH2 CO2,Value,90000,,,115435,115435,50,,0,9,,,,,128
+301,20200_AUC AH2 Heating Valve TL Archive,Aitken Center AH2 heating valve,128,0,1,,,1,20200,AO,2,11,0,AUC AH2 Heating Valve,Value,90000,,,115435,115435,50,,0,9,,,,,128
+302,20200_AUC AH2 Fan VFD Status TL Archive,Aitken Center AH2 fan VD status,128,0,1,,,1,20200,AV,32,11,0,AUC AH2 Fan VFD Status,Value,90000,,,115435,115435,50,,0,9,,,,,128
+303,20200_AUC AH2 VFD Fan Starter TL Archive,Aitken Center AH2 VFD fan starter,128,0,1,,,1,20200,BV,16,11,0,AUC AH2 VFD Fan Starter,Value,0,,,2744,2744,22,,3462,9,,,,,128
+304,20200_AUC AH2 Dehumidifier TL Archive,Aiken Center AH2 Dehumidifier,128,0,1,,,1,20200,BO,5,11,0,AUC AH2 Dehumidifier,Value,0,,,1222,1222,225,,173630,9,,,,,128
+305,20200_AUC AH2 Dehumidifier Fan Status TL Archive,Aitken Center AH2 dehumdifier fan status,128,0,1,,,1,20200,BV,18,11,0,AUC AH2 Dehumidifier Fan Status,Value,0,,,771,771,45,,765,9,,,,,128
+306,20200_AUC AH2 Dehumidifier Compressor Status TL Archive,Aitken Center AH2 dehumidifier compressor status,128,0,1,,,1,20200,BV,19,11,0,AUC AH2 Dehumidifier Compressor Status,Value,0,,,1253,1253,45,,1215,9,,,,,128
+307,680000_KIN LEED DOAS1 RAH TL Archive,,128,0,1,,,1,680000,AI,1103,11,0,KIN DOAS1 RAH,Value,90000,,,12108,12108,50,,0,9,,,,,128
+308,680000_KIN LEED DOAS1 SA Flow TL Archive,,128,0,1,,,1,680000,AI,1303,11,0,KIN DOAS1 SA Flow,Value,90000,,,12108,12108,50,,0,9,,,,,128
+309,680000_KIN LEED DOAS1 SA Total Flow TL Archive,,128,0,1,,,1,680000,AT,1303,11,0,KIN DOAS1 SA Total Flow,Value,90000,,,12108,12108,50,,0,9,,,,,128
+310,160200_HIL Electrical Minus Aliant2 TL Archive,,128,0,1,2016-10-27 00:00:00,,1,160200,AV,66,11,0,HIL Electric minus Aliant2,Value,90000,,,73099,73099,50,,0,9,,,,,32
+311,50500_BH TOTAL CONDENSATE USED (LBS) at start of month TL Archive,,128,0,1,2017-07-09 00:00:00,,1,50500,AV,85,11,0,BH TOTAL CONDENSATE USED (LBS) at start of month,Value,0,,,69,69,45,,45,9,,,,,128
+312,50500_BH TOTAL CONDENSATE USED (LBS) last month TL Archive,,128,0,1,2017-07-09 00:00:00,,1,50500,AV,86,11,0,BH TOTAL CONDENSATE USED (LBS) last month,Value,360000,,,9636,9636,45,,0,9,,,,,128
+313,50500_BH TOTAL CONDENSATE USED last month cost TL Archive,,128,0,1,,,1,50500,AV,87,11,0,BH TOTAL CONDENSATE USED last month cost,Value,60000,,,68607,68607,45,,0,9,,,,,128
+314,50500_BH TOTAL CONDENSATE USED (LBS) current month TL Archive,,128,0,1,2017-07-09 00:00:00,,1,50500,AV,88,11,0,BH TOTAL CONDENSATE USED (LBS) current month,Value,360000,,,15201,15201,50,,0,9,,,,,128
+315,50500_BH TOTAL CONDENSATE USED cost current month TL Archive,,128,0,1,2017-07-09 00:00:00,,1,50500,AV,89,11,0,BH TOTAL CONDENSATE USED cost current month,Value,360000,,,15201,15201,50,,0,9,,,,,128
+316,20000_AUC Tower PSS 1 TL Archive,Aitken Center cooling tower pump 1 start command,192,0,1,,,1,20000,BV,63,11,0,AUC Tower PSS 1,Value,0,,,32879,32879,45,,32850,9,,,,,128
+317,20000_AUC Tower PSS 2 TL Archive,Aitken Center cooling tower pump 2 start command,192,0,1,,,1,20000,BV,64,11,0,AUC Tower PSS 2,Value,0,,,16985,16985,45,,16965,9,,,,,128
+318,20000_AUC Tower PST 1 TL Archive,Aitken Center cooling tower pump 1 status,192,0,1,,,1,20000,BV,65,11,0,AUC Tower PST 1,Value,0,,,32895,32895,45,,32895,9,,,,,128
+319,20000_AUC Tower PST 2 TL Archive,Aitken Center cooling tower pump 2 status,192,0,1,,,1,20000,BV,66,11,0,AUC Tower PST 2,Value,6000,,,1270400,1270400,50,,0,9,,,,,128
+320,20000_AUC Zamboni CO TL Archive,,192,0,1,2017-09-21 00:00:00,,1,20000,AI,13,11,0,AUC Zamboni CO,Value,6000,,,352560,352560,50,,0,9,,,,,128
+321,20000_AUC Tower FSS 1 TL Archive,Aitken Center cooling tower fan 1 start command,192,0,1,,,1,20000,BV,59,11,0,AUC Tower FSS 1,Value,0,,,1608,1608,45,,1575,9,,,,,128
+322,50500_BH TOTAL CONDENSATE USED yesterday cost TL Archive,,128,0,1,,,1,50500,AV,81,11,0,BH TOTAL CONDENSATE USED yesterday cost,Value,0,,,613,613,45,,2658,9,,,,,128
+323,50500_BH TOTAL ELECTRICITY USED (KWH) TL Archive,,128,0,1,2017-09-27 00:00:00,,1,50500,AV,96,11,0,BH TOTAL ELECTRICITY USED (KWH),Value,60000,,,79401,79401,50,,0,9,,,,,128
+324,170000_HRTN Total Condensate TL Archive,,128,0,1,2018-03-19 00:00:00,,1,170000,AV,3,11,0,Total Condensate,Value,6000,,,545821,545821,50,,0,9,,,,,128
+325,40000_AXC TOTAL CONDENSATE USED $$$ current month TL Archive,,128,0,1,2018-04-06 00:00:00,,1,40000,AV,89,11,0,AXC TOTAL CONDENSATE USED $$$ current month,Value,6000,,,488063,488063,9,,0,9,,,,,128
+326,40000_AXC TOTAL CONDENSATE USED (LBS) current month TL Archive,,128,0,1,2018-04-06 00:00:00,,1,40000,AV,88,11,0,AXC TOTAL CONDENSATE USED (LBS) current month,Value,6000,,,488052,488052,9,,0,9,,,,,128
+327,40000_AXC TOTAL electric USED current month $$$ TL Archive,,128,0,1,2018-04-06 00:00:00,,1,40000,AV,13,11,0,AXC TOTAL electric USED current month $$$ ,Value,360000,,,8696,8696,5,,0,9,,,,,128
+328,40000_AXC TOTAL electric USED current month TL Archive,,128,0,1,2018-04-06 00:00:00,,1,40000,AV,14,11,0,AXC TOTAL electric USED current month ,Value,360000,,,8693,8693,5,,0,9,,,,,128
+329,90200_TOTAL CONDENSATE USED (LBS) current month TL Archive,,128,0,1,2018-04-06 00:00:00,,1,90200,AV,6,11,0,TOTAL CONDENSATE USED (LBS) current month,Value,360000,,,8693,8693,2,,0,9,,,,,128
+330,100000_CH total condensate used TL Archive,Casey Hall total condensate (lbs),128,0,1,,,1,100000,AV,11,11,0,CH Total Condensate used,Value,90000,,,111459,111459,50,,0,9,,,,,128
+331,520200_FM Power Consumption TL Archive,Facilities Management electrical consumption,128,0,1,,,1,528000,AV,10,11,0,,Value,30000,,,327793,327793,50,,0,9,,,,,128
+332,520200_FM Power Demand TL Archive,Facilities Management electrical dmeand sliding window,128,0,1,,,1,528000,AV,4,11,0,,Value,30000,,,327796,327796,50,,0,9,,,,,128
+333,520200_FM Power Max Demand TL Archive,Facilities Management electrical demand max,128,0,1,,,1,528000,AV,24,11,0,,Value,30000,,,327795,327795,50,,0,9,,,,,128
+334,380300_STU total Steam TL Archive,STU total steam (lbs),128,0,1,,,1,380300,AV,126,11,0,STU total steam,Value,90000,,,108692,108692,9,,0,9,,,,,128
+335,610300_WU AH1 FAN STATUS TL Archive,WU AH1 fan status,128,0,1,,,1,610300,BV,2,11,0,WU AH1 FAN STATUS,Value,0,,,155,155,45,,1653,9,,,,,128
+336,610300_WU AH1 FSS TL Archive,WU AH1 fan start command,128,0,1,,,1,610300,BO,1,11,0,WU AH1 FSS,Value,0,,,109,109,45,,1396,9,,,,,128
+337,610300_WU AH1 CLG TL Archive,Wu AH1 cooling start command,128,0,1,,,1,610300,BO,3,11,0,WU AH1 CLG,Value,0,,,2406,2406,45,,11334,9,,,,,128
+338,610300_WU AH1 HUM TL Archive,WU AH1 Humidity,128,0,1,,,1,610300,AO,5,11,0,WU AH1 HUM,Value,180000,,,54203,54203,50,,0,9,,,,,128
+339,610300_WU AH1 MAD TL Archive,WU AH1 mixed air damper,128,0,1,,,1,610300,AO,2,11,0,WU AH1 MAD,Value,180000,,,54103,54103,50,,0,9,,,,,128
+340,610300_WU AH1 MAT TL Archive,Wu AH1 mixed air temperature,128,0,1,,,1,610300,AI,1,11,0,WU AH1 MAT,Value,360000,,,27138,27138,50,,0,9,,,,,128
+341,610300_WU AH1 R15 SPC TL Archive,Wu AH1 room 15 space tmeperature,128,0,1,,,1,610300,AI,6,11,0,WU AH1 R15 SPC,Value,360000,,,27238,27238,50,,0,9,,,,,128
+342,610300_WU AH1 RA CO2 TL Archive,Wu Ah1 return air CO2,128,0,1,,,1,610300,AI,4,11,0,WU AH1 RA CO2,Value,720000,,,13651,13651,50,,0,9,,,,,128
+343,610300_WU AH1 RAH TL Archive,Wu Ah1 return air humidity,128,0,1,,,1,610300,AI,3,11,0,WU AH1 RAH,Value,720000,,,13651,13651,50,,0,9,,,,,128
+344,610300_WU AH1 SAT TL Archive,Wu ah1 supply air temperature,128,0,1,,,1,610300,AI,2,11,0,WU AH1 SAT,Value,1000,,,9333935,9333935,50,,0,9,,,,,128
+345,610300_WU AH1 SCR TL Archive,Wu ah1 SCR value,128,0,1,,,1,610300,AO,4,11,0,WU AH1 SCR,Value,90000,,,107309,107309,50,,0,9,,,,,128
+346,610300_WU AH1E R119 SPC TL Archive,Wu AH1E room 119 space temperature,128,0,1,,,1,610300,AI,11,11,0,WU AH1E R119 SPC,Value,180000,,,54203,54203,50,,0,9,,,,,128
+347,610200_WU AH1 RELIEF FST TL Archive,Wu Ah1 reilf fan status,128,0,1,,,1,610200,AI,16,11,0,WU OAT (on ah4 condensing unit),Value,180000,,,54105,54105,50,,0,9,,,,,128
+348,610200_WU AH2 AIR FLOW SWITCH TL Archive,Wu ah2 air flow switch,128,0,1,,,1,610200,BI,8,11,0,WU AH2 AIRFLOW SWITCH,Value,0,,,8583,8583,45,,42649,9,,,,,128
+349,610200_WU AH2 CLG1 STATUS TL Archive,Wu AH2 cooling stage 1 status,128,0,1,,,1,610200,AI,9,11,0,WU AH2 CLG1 STATUS,Value,90000,,,108044,108044,50,,0,9,,,,,128
+350,610200_WU AH2 CLG1 TL Archive,Wu ah2 cooling stage 1 command,128,0,1,,,1,610200,BO,2,11,0,WU AH2 CLG1,Value,0,,,10348,10348,45,,21582,9,,,,,128
+351,610200_WU AH2 CLG2 STATUS TL Archive,Wu ah2 cooling stage 2 status,128,0,1,,,1,610200,AI,10,11,0,WU AH2 CLG2 STATUS,Value,90000,,,108044,108044,50,,0,9,,,,,128
+352,610200_WU AH2 CLG2 TL Archive,Wu ah2 cooling stage 2 command,128,0,1,,,1,610200,BO,3,11,0,WU AH2 CLG2,Value,0,,,718,718,45,,1765,9,,,,,128
+353,610200_WU AH2 FAN STATUS TL Archive,Wu ah2 fan status,128,0,1,,,1,610200,BV,1,11,0,WU AH2 FAN STATUS,Value,0,,,8593,8593,45,,42732,9,,,,,128
+354,610200_WU AH2 FSS TL Archive,Wu ah2 fan start command,128,0,1,,,1,610200,BO,1,11,0,WU AH2 FSS,Value,0,,,8585,8585,45,,42623,9,,,,,128
+355,610200_WU AH2 FST TL Archive,Wu ah2 fan status,128,0,1,,,1,610200,AI,11,11,0,WU AH2 FST,Value,90000,,,108044,108044,50,,0,9,,,,,128
+356,610200_WU AH2 HTG2 TL Archive,Wu ah2 heating stage 2 start command,128,0,1,,,1,610200,BO,8,11,0,WU AH2 HTG2,Value,0,,,62,62,45,,256,9,,,,,128
+357,610200_WU AH2 HTG3 TL Archive,Wu ah2 heating stage 3 start command,128,0,1,,,1,610200,BO,9,11,0,WU AH2 HTG3,Value,0,,,63,63,45,,215,9,,,,,128
+358,610200_WU AH2 HUM TL Archive,Wu Ah2 humidty,128,0,1,,,1,610200,AO,6,11,0,WU AH2 HUM,Value,360000,,,27132,27132,50,,0,9,,,,,128
+359,610200_WU AH2 MAD TL Archive,Wu ah2 mixed air dampers,128,0,1,,,1,610200,AO,5,11,0,WU AH2 MAD,Value,180000,,,54105,54105,50,,0,9,,,,,128
+360,610200_WU AH2 MAT TL Archive,Wu ah2 mixed air temperature,128,0,1,,,1,610200,AI,3,11,0,WU AH2 MAT,Value,180000,,,54105,54105,50,,0,9,,,,,128
+361,610200_WU AH2 RA CO2 TL Archive,Wu ah2 return air CO2,128,0,1,,,1,610200,AI,5,11,0,WU AH2 RA CO2,Value,360000,,,27132,27132,50,,0,9,,,,,128
+362,610200_WU AH2 RAH TL Archive,Wu Ah2 return air humidity,128,0,1,,,1,610200,AI,4,11,0,WU AH2 RAH,Value,720000,,,13647,13647,50,,0,9,,,,,128
+363,610200_WU AH2 RELIEF FSS TL Archive,Wu Ah2 relief fan start command,128,0,1,,,1,610200,BO,10,11,0,WU AH2 RELI,Value,0,,,8205,8205,45,,28359,9,,,,,128
+364,610200_WU AH2 SAT SP TL Archive,Wu ah2 supply air temperature set point,128,0,1,,,1,610200,AV,3,11,0,WU AH2 SAT SP,Value,180000,,,54205,54205,50,,0,9,,,,,128
+365,610200_WU AH2 SAT TL Archive,Wu Ah2 supply air temperature,128,0,1,,,1,610200,AI,6,11,0,WU AH2 SAT,Value,90000,,,108043,108043,50,,0,9,,,,,128
+366,610200_WU AH2 SCR HTG1 TL Archive,Wu Ah2 heating stage 1 command,128,0,1,,,1,610200,AO,7,11,0,WU AH2 SCR HTG1,Value,180000,,,54105,54105,50,,0,9,,,,,128
+367,610200_WU AH2 THEATER SPC TL Archive,Wu Ah2 theater space temperature,128,0,1,,,1,610200,AI,7,11,0,WU AH2 THEATER SPC,Value,90000,,,108043,108043,50,,0,9,,,,,128
+368,610200_WU AH2 THEATRE SPC SP TL Archive,"Wu Ah2 theater space tmeperature set point
+",128,0,1,,,1,610200,AV,16,11,0,WU AH2 THEATRE SPC SP,Value,0,,,1683,1683,45,,6373,9,,,,,128
+369,610100_WU AH4 AIR FLOW SWITCH TL Archive,Wu Ah4 air flow,128,0,1,,,1,610100,BI,8,11,0,<BI8>,Value,0,,,1677,1677,45,,8466,9,,,,,128
+370,610100_WU AH4 CLG1 STAT BV TL Archive,Wu ah4 cooling stage 1 status,128,0,1,,,1,610100,BV,2,11,0,<BV2>,Value,0,,,3315,3315,45,,10070,9,,,,,128
+371,610100_WU AH4 CLG1 TL Archive,Wu Ah4 cooling stage 1 command,128,0,1,,,1,610100,BO,4,11,0,<BO4>,Value,0,,,3535,3535,45,,10499,9,,,,,128
+372,610100_WU AH4 CLG2 STAT BV TL Archive,Wu Ah4 cooling stage 2 status,128,0,1,,,1,610100,BV,3,11,0,<BV3>,Value,0,,,1359,1359,45,,4449,9,,,,,128
+373,610100_WU AH4 CLG2 TL Archive,Wu Ah4 cooling stage 2 command,128,0,1,,,1,610100,BO,5,11,0,<BO5>,Value,0,,,3269,3269,45,,8604,9,,,,,128
+374,610100_WU AH4 CLG3 STAT BV TL Archive,Wu Ah4 cooling stage 3 status,128,0,1,,,1,610100,BV,4,11,0,<BV4>,Value,0,,,3265,3265,45,,8482,9,,,,,128
+375,610100_WU AH4 CLG3 TL Archive,Wu Ah4 cooling stage 3 command,128,0,1,,,1,610100,BO,6,11,0,<BO6>,Value,0,,,1427,1427,45,,4975,9,,,,,128
+376,610100_WU AH4 CLG4 STAT BV TL Archive,Wu Ah4 cooling stage 4 status,128,0,1,,,1,610100,BV,5,11,0,<BV5>,Value,0,,,774,774,45,,3197,9,,,,,128
+377,610100_WU AH4 CLG4 TL Archive,Wu Ah4 cooling stage 4 command,128,0,1,,,1,610100,BO,7,11,0,<BO7>,Value,0,,,964,964,45,,3677,9,,,,,128
+378,610100_WU AH4 FAN STATUS TL Archive,Wu Ah4 fan status,128,0,1,,,1,610100,BV,1,11,0,WU AH4 FAN STATUS,Value,0,,,1617,1617,18,,8460,9,,,,,128
+379,610100_WU AH4 FSS TL Archive,Wu Ah4 fan start command,128,0,1,,,1,610100,BO,1,11,0,<BO1>,Value,0,,,1677,1677,45,,8584,9,,,,,128
+380,610100_WU AH4 FST TL Archive,Wu Ah4 fan status,128,0,1,,,1,610100,AI,13,11,0,WU AH4 FST,Value,90000,,,108124,108124,50,,0,9,,,,,128
+381,610100_WU AH4 HTG2 TL Archive,Wu Ah4 heating stage 2 command,128,0,1,,,1,610100,BO,9,11,0,<BO9>,Value,0,,,125,125,45,,722,9,,,,,128
+382,610100_WU AH4 HTG3 TL Archive,Wu Ah4 heating stage 3 command,128,0,1,,,1,610100,BO,10,11,0,<BO10>,Value,0,,,68,68,45,,631,9,,,,,128
+383,610100_WU AH4 HTG4 TL Archive,Wu Ah4 heating stage 4 command,128,0,1,,,1,610100,BO,11,11,0,<BO11>,Value,0,,,68,68,45,,632,9,,,,,128
+384,610100_WU AH4 HUM TL Archive,Wu Ah4 humidity,128,0,1,,,1,610100,AO,12,11,0,WU AH4 HUM,Value,180000,,,54199,54199,50,,0,9,,,,,128
+385,610100_WU AH4 MAD TL Archive,Wu AH4 mixed air damper,128,0,1,,,1,610100,AO,3,11,0,WU AH4 MAD,Value,180000,,,60283,60283,50,,0,9,,,,,128
+386,610100_WU AH4 MAT TL Archive,WU AH4 mixed air temperature,128,0,1,,,1,610100,AI,1,11,0,WU AH4 MAT,Value,720000,,,13648,13648,50,,0,9,,,,,128
+387,610100_WU AH4 R199 SPC TL Archive,WU AH4 Room 199 space temperature,128,0,1,,,1,610100,AI,6,11,0,WU AH4 R199 SPC,Value,90000,,,108224,108224,50,,0,9,,,,,128
+388,610100_WU AH4 RA CO2 TL Archive,Wu Ah4return air CO2,128,0,1,,,1,610100,AI,4,11,0,WU AH4 RA CO2,Value,360000,,,27130,27130,50,,0,9,,,,,128
+389,610100_WU AH4 RAH SP TL Archive,Wu Ah4return air humiditty set point,128,0,1,,,1,610100,AV,40,11,0,WU AH4 RAH SP,Value,0,,,70,70,9,,655,9,,,,,128
+390,610100_WU AH4 RAH TL Archive,Wu Ah4 return air humiddity,128,0,1,,,1,610100,AI,3,11,0,WU AH4 RAH,Value,720000,,,13648,13648,50,,0,9,,,,,128
+391,610100_WU AH4 RAT SP TL Archive,Wu Ah4 return air temperature set point,128,0,1,,,1,610100,AV,9,11,0,WU AH4 RAT SP,Value,0,,,75,75,9,,673,9,,,,,128
+392,610100_WU AH4 RAT TL Archive,Wu Ah4 return air temperature,128,0,1,,,1,610100,AI,7,11,0,WU AH4 RAT,Value,360000,,,27130,27130,50,,0,9,,,,,128
+393,610100_WU AH4 RELIEF FSS TL Archive,Wu AH4 Relief fan start command,128,0,1,,,1,610100,BO,13,11,0,<BO13>,Value,0,,,8535,8535,45,,29122,9,,,,,128
+394,610100_WU AH4 SAT SP TL Archive,Wu AH4 supply air temperature set point,128,0,1,,,1,610100,AV,3,11,0,WU AH4 SAT SP,Value,180000,,,54099,54099,50,,0,9,,,,,128
+395,610100_WU AH4 SAT TL Archive,Wu Ah4 supply air temperature,128,0,1,,,1,610100,AI,2,11,0,WU AH4 SAT,Value,90000,,,108124,108124,50,,0,9,,,,,128
+396,610100_WU AH4 SCR HTG1 TL Archive,Wu ah4 SCR heat control,128,0,1,,,1,610100,AO,8,11,0,WU AH4 SCR HTG1,Value,90000,,,108124,108124,50,,0,9,,,,,128
+397,610100_WU AH4 STATIC SP TL Archive,Wu AH4 static pressure set point,128,0,1,,,1,610100,AV,1,11,0,WU AH4 STATIC SP,Value,0,,,70,70,11,,679,9,,,,,128
+398,610100_WU AH4 STATIC TL Archive,Wu AH4 static pressure,128,0,1,,,1,610100,AI,5,11,0,WU AH4 STATIC,Value,90000,,,108124,108124,50,,0,9,,,,,128
+399,610400_WU AH5 EAD TL Archive,Wu Ah5 exhaust air damper,128,0,1,,,1,610400,AO,6,11,0,WU AH5 EAD,Value,180000,,,54149,54149,50,,0,9,,,,,128
+400,610400_WU AH5 FAD+RAD TL Archive,Wu Ah5 fresh air plus retutn air dampers,128,0,1,,,1,610400,AO,4,11,0,WU AH5 FAD+RAD,Value,180000,,,54149,54149,50,,0,9,,,,,128
+401,610400_WU AH5 FAN STAT TL Archive,Wu Ah5 fan status,128,0,1,,,1,610400,BV,1,11,0,WU AH5 FAN STAT,Value,0,,,1751,1751,45,,4957,9,,,,,128
+402,610400_WU AH5 FSS TL Archive,Wu Ah5 fan start command,128,0,1,,,1,610400,BO,1,11,0,WU AH5 FSS,Value,0,,,1742,1742,45,,4919,9,,,,,128
+403,610400_WU AH5 MAT TL Archive,Wu ah5 mixed air temperature,128,0,1,,,1,610400,AI,3,11,0,WU AH5 MAT,Value,360000,,,27108,27108,50,,0,9,,,,,128
+404,610400_WU AH5 SAT SP TL Archive,Wu ah5 supply air temperature set point,128,0,1,,,1,610400,AV,3,11,0,WU AH5 SAT SP,Value,180000,,,54049,54049,50,,0,9,,,,,128
+405,610400_WU AH5 SAT TL Archive,Wu ah5 supply air temperature,128,0,1,,,1,610400,AI,2,11,0,WU AH5 SAT,Value,180000,,,54049,54049,50,,0,9,,,,,128
+406,610400_WU AH5 SCR TL Archive,Wu ah5 scr heat control,128,0,1,,,1,610400,AO,5,11,0,WU AH5 SCR,Value,90000,,,108137,108137,50,,0,9,,,,,128
+407,610400_WU AH5 SPC TL Archive,Wu ah5 space temperature,128,0,1,,,1,610400,AI,101,11,0,WU AH5 SPC,Value,180000,,,54349,54349,50,,0,9,,,,,128
+408,610100_WU AH4 CLG2 STATUS TL Archive,Wu ah4 colling stage 2 status,128,0,1,,,1,610100,AI,11,11,0,WU AH4 CLG2 STATUS ( now clg2 status ),Value,30000,,,323704,323704,50,,0,9,,,,,128
+409,610100_WU AH4 CLG3 STATUS TL Archive,Wu ah4 colling stage 3 status,128,0,1,,,1,610100,AI,10,11,0,WU AH4 CLG3 STATUS ( now clg3 status ),Value,30000,,,323704,323704,50,,0,9,,,,,128
+410,610100_WU AH4 CLG4 STATUS TL Archive,Wu ah4 colling stage 4 status,128,0,1,,,1,610100,AI,12,11,0,WU AH4 CLG4 STATUS,Value,30000,,,323704,323704,50,,0,9,,,,,128
+411,610100_WU AH4 CLG1 STATUS TL Archive,Wu ah4 colling stage 1 status,128,0,1,,,1,610100,AI,9,11,0,WU AH4 CLG1 STATUS,Value,30000,,,323705,323705,50,,0,9,,,,,128
+412,610300_WU AH1 CLG STATUS TL Archive,Wu Ah1 cooling status,128,0,1,,,1,610300,AI,7,11,0,WU AH1 CLG STATUS,Value,30000,,,318727,318727,50,,0,9,,,,,128
+413,610000_WU Volt2 Archive,Wu volt 2,128,0,1,,,1,618200,AV,32,11,0,,Value,90000,,,107247,107247,50,,0,9,,,,,128
+414,610000_WU Volt3 Archive,Wu volt 3,128,0,1,,,1,618200,AV,33,11,0,,Value,90000,,,107247,107247,50,,0,9,,,,,128
+415,610000_WU Current1 Archive,Wu current 1,128,0,1,,,1,618200,AV,34,11,0,,Value,90000,,,107268,107268,50,,0,9,,,,,128
+416,610000_WU Current2 Archive,Wu current 2,128,0,1,,,1,618200,AV,35,11,0,,Value,90000,,,107228,107228,50,,0,9,,,,,128
+417,610000_WU Current3 Archive,Wu current 3,128,0,1,,,1,618200,AV,36,11,0,,Value,90000,,,107228,107228,50,,0,9,,,,,128
+418,610000_WU Volt1 Archive,Wu volt 1,128,0,1,,,1,618200,AV,31,11,0,,Value,90000,,,107253,107253,50,,0,9,,,,,128
+419,120200_Too Total Condensate TL Archive,Toole total condensate (lbs),128,0,1,,,1,120200,AV,144,11,0,Too Total Condensate,Value,6000,,,1600137,1600137,50,,0,9,,,,,128
+420,590201_SG Total Condensate TL Archive,South Gym total condensate (lbs),192,0,1,,,1,590201,AV,32,11,0,SG Total Condensate,Value,6000,,,1485822,1485822,50,,0,9,,,,,32
+421,280500_LBG Total Condensate TL Archive,LB Gym total condensate (lbs),128,0,1,,,1,280500,AV,132,11,0,LBG Total Condensate,Value,6000,,,1598914,1598914,50,,0,9,,,,,32
+422,370000_MD TOTAL CONDENSATE Actual  USED (LBS) TL Archive,Marshall D'Avery total condnesate (lbs),128,0,1,,,1,370000,AV,193,11,0,MD TOTAL CONDENSATE Actual  USED (LBS),Value,30000,,,301552,301552,50,,0,9,,,,,128
+423,280500_LBGym Main Water Meter Cubic Meters TL Archive,LB Gym total water consumption,128,0,1,,,1,280500,AV,131,11,0,LBGym Main Water Meter Cubic Meters,Value,90000,,,105280,105280,50,,0,9,,,,,128
+424,520200_FM Neg Power Demand TL Archive,Faciclities Management electrical demand,128,0,1,,,1,528000,AV,26,11,0,,Value,90000,,,103212,103212,50,,0,9,,,,,128
+425,520200_FM Total Watts TL Archive,Facilities Management electrical consumption (watts),128,0,1,,,1,528000,AV,36,11,0,,Value,90000,,,103208,103208,50,,0,9,,,,,128
+426,561100_SUB Total Condensate TL Archive,S.U.B.  total condensate (lbs),128,0,1,,,1,561100,AV,80,11,0,SUB Total Condensate,Value,90000,,,104080,104080,50,,0,9,,,,,128
+427,340100_MAC Total Condensate TL Archive,MacLaggan total condensate (lbs),128,0,1,,,1,340100,AV,20,11,0,MAC Total Condensate,Value,90000,,,102757,102757,50,,0,9,,,,,128
+428,230101_IUF Total condensate TL Archive,IUC Forestry total condensate (lbs),128,0,1,,,1,230101,AV,4,11,0,IUF Total Condensate,Value,90000,,,102175,102175,50,,0,9,,,,,128
+429,210300_INC3 Total Condensate TL Archive,Incutech building 3 total condensate (lbs),128,0,1,,,1,210300,AV,100,11,0,INC3 Total Condensate,Value,6000,,,1522224,1522224,50,,0,9,,,,,128
+430,490502_Engineering Total Condensate Last Month (E+H Meters ) tl Archive,Engineering total conedensate last month,128,0,1,,,1,490502,AV,200,11,0,Engineering Total Condensate Last Month (E+H Meters ),Value,6000,,,1527943,1527943,50,,0,9,,,,,32
+431,490502_Engineering Total Condensate (E+H Meters ) TL Archive,Engineering total condensate E+H meters,128,0,1,,,1,490502,AV,201,11,0,Engineering Total Condensate (E+H Meters ),Value,30000,,,305238,305238,9,,0,9,,,,,32
+432,490502_NE2 TOTAL CONDENSATE USED (LBS) TL Archive,New Engineering pump trap 2  total condensate (lbs),128,0,1,,,1,490502,AV,6,11,0,NE2 TOTAL CONDENSATE USED (LBS),Value,90000,,,101771,101771,50,,0,9,,,,,32
+433,490502_HH DHW TOTAL CONDENSATE USED (LBS) TL Archive,Head Hall domestic hot water total condensate (lbs),128,0,1,,,1,490502,AV,26,11,0,HH DHW TOTAL CONDENSATE USED (LBS),Value,90000,,,101769,101769,50,,0,9,,,,,32
+434,490502_ITC TOTAL CONDENSATE USED (LBS) TL Archive,ITC total condensate (lbs),128,0,1,,,1,490502,AV,46,11,0,ITC TOTAL CONDENSATE USED (LBS),Value,90000,,,101769,101769,50,,0,9,,,,,32
+435,490502_OE TOTAL CONDENSATE USED (LBS) TL Archive,Old Engineering total condensate (lbs),128,0,1,,,1,490502,AV,86,11,0,OE TOTAL CONDENSATE USED (LBS),Value,90000,,,101782,101782,50,,0,9,,,,,32
+436,490502_NE1 TOTAL CONDENSATE USED (LBS) TL Archive,New Engineering pump trap 1  total condensate (lbs),128,0,1,,,1,490502,AV,106,11,0,NE1 TOTAL CONDENSATE USED (LBS),Value,90000,,,101778,101778,50,,0,9,,,,,32
+437,490502_GH TOTAL CONDENSATE USED (LBS) TL Archive,Gillin Hall total condensate (lbs),128,0,1,,,1,490502,AV,66,11,0,GH TOTAL CONDENSATE USED (LBS),Value,90000,,,101769,101769,50,,0,9,,,,,32
+438,520015_SER AH4 SHOP NO TL Archive,Facilities Management shop Nitrous Oxide level,128,0,1,,,1,520015,AI,9,11,0,SER AH4 SHOP NO,Value,30000,,,301737,301737,50,,0,9,,,,,128
+439,520015_SER AH4 SHOP NO2 TL Archive,Facilities Management shop Nitrous Dioxide level,128,0,1,,,1,520015,AI,6,11,0,SER AH4 SHOP NO2,Value,30000,,,301939,301939,50,,0,9,,,,,128
+440,520015_SER AH4 SHOP CO TL Archive,Facilities Management shop Carbon Monoxide level,128,0,1,,,1,520015,AI,5,11,0,SER AH4 SHOP CO,Value,30000,,,302133,302133,50,,0,9,,,,,128
+441,660000_CUR Tower LWT C Archive,Currie cooling tower leaving water temperature,128,0,1,,,1,664100,AI,3000,11,0,,Value,6000,,,1425207,1425207,50,,0,9,,,,,128
+442,660000_CUR Tower Bypass VLV Archive,Currie cooling tower bypass valve,128,0,1,,,1,664100,AV,8371,11,0,,Value,30000,,,288965,288965,50,,0,9,,,,,128
+443,660000_CUR Tower EWT C Archive,Currie entering water temperature,128,0,1,,,1,664100,AI,3001,11,0,,Value,6000,,,1425208,1425208,50,,0,9,,,,,128
+444,660000_CUR Condenser EWT TL Archive,Currie condenser entering water tmeperature,128,0,1,,,1,660000,AV,6,11,0,CUR Condenser EWT C,Value,30000,,,276514,276514,50,,0,9,,,,,128
+445,660000_CUR Condenser LWT TL Archive,Currie condenser leaving water temperature,128,0,1,,,1,660000,AV,7,11,0,CUR Condenser LWT C,Value,30000,,,276514,276514,50,,0,9,,,,,128
+446,660000_CUR HX5 AHU VLV TL Archive,Currie heat exchanger 5 valve,128,0,1,,,1,664500,AO,2004,11,0,,Value,30000,,,276548,276548,50,,0,9,,,,,128
+447,660000_CUR HX5 AHU VLV FDBK TL Archive,Currie heat exchanger 5 valve feed back,128,0,1,,,1,664500,AI,2009,11,0,,Value,30000,,,276548,276548,50,,0,9,,,,,128
+448,660000_CUR HX1 Perm VLV TL Archive,Currie heat exchanger 1 valve,128,0,1,,,1,664500,AO,0,11,0,,Value,30000,,,276548,276548,50,,0,9,,,,,128
+449,660000_CUR HX1 Perm VLV  FDBK TL Archive,Currie heat exchanger 1 valve feed back,128,0,1,,,1,664500,AI,2,11,0,,Value,30000,,,276549,276549,50,,0,9,,,,,128
+450,660000_CUR HX1A Perm VLV TL Archive,Currie heat exchanger 1a valve,128,0,1,,,1,664500,AO,1,11,0,,Value,30000,,,276549,276549,50,,0,9,,,,,128
+451,660000_CUR HX1A Perm VLV  FDBK TL Archive,Currie heat exchanger 1a feed back,128,0,1,,,1,664500,AI,3,11,0,,Value,30000,,,276549,276549,50,,0,9,,,,,128
+452,660000_CUR Performance Gym SPC HUM Archive,Currie performance gym space humidity,128,0,1,,,1,664100,AI,4002,11,0,,Value,30000,,,275628,275628,50,,0,9,,,,,128
+453,50500_BH TOTAL ELECTRICITY USED today TL Archive,,128,0,1,2017-09-27 00:00:00,,1,50500,AV,97,11,0,BH TOTAL ELECTRICITY USED today,Value,60000,,,79376,79376,50,,0,9,,,,,128
+454,50500_BH TOTAL ELECTRICITY USED yesterday TL Archive,,128,0,1,2017-09-27 00:00:00,,1,50500,AV,98,11,0,BH TOTAL ELECTRICITY USED yesterday,Value,60000,,,79377,79377,50,,0,9,,,,,128
+455,50500_BH Fish Lab Water Meter m3 TL Archive,Bailey fish lab water consumption,128,0,1,,,1,50500,AV,93,11,0,BH Fish Lab Water Meter m3,Value,360000,,,23248,23248,50,,0,9,,,,,128
+456,660000_CUR Tower LWT SP TL Archive,Currie cooling tower water leaving set point,128,0,1,,,1,664100,AV,8381,11,0,,Value,6000,,,1369390,1369390,50,,0,9,,,,,128
+457,660000_CUR Cond EWT SP TL Archive,Currie condenser waterentering set point,128,0,1,,,1,664400,AV,8181,11,0,,Value,6000,,,1369138,1369138,50,,0,9,,,,,128
+458,50500_BH TOTAL ELECTRICITY USED at MIDNIGHT TL Archive,,128,0,1,2017-09-27 00:00:00,,1,50500,AV,99,11,0,BH TOTAL ELECTRICITY USED at MIDNIGHT,Value,60000,,,79377,79377,50,,0,9,,,,,128
+459,50500_BH TOTAL ELECTRICITY USED yesterday cost TL Archive,,128,0,1,2017-09-27 00:00:00,,1,50500,AV,100,11,0,BH TOTAL ELECTRICITY USED yesterday cost,Value,60000,,,79375,79375,50,,0,9,,,,,128
+460,160300_HIL Aliant Electrical total energy tl Archive,Harriet Irving Library Aliant electrical consumption,128,0,1,,,1,160300,AV,33,11,0,HIL Aliant Electrical Meter Total Energy,Value,30000,,,246803,246803,50,,0,9,,,,,32
+461,160300_HIL Electrical Minus Aliant TL Archive,Harriet Irving Library total electrical consumption minus aliant meter,128,0,1,,,1,160300,AV,34,11,0,HIL Electric minus Aliant,Value,90000,,,82122,82122,50,,0,9,,,,,32
+462,200100_HC Total Condensate Used lbs Archive,Holy Cross total condensate (lbs),128,0,1,,,1,200100,AV,74,11,0,HC TOTAL CONDENSATE USED (LBS),Value,90000,,,78869,78869,50,,0,9,,,,,128
+463,160400_HIL Water Meter Total Archive,Harriet Irving Library water consumption,128,0,1,,,1,160400,AV,142,11,0,HIL Water Total,Value,90000,,,84140,84140,50,,0,9,,,,,128
+464,60000_BB City Water Total Archive,Bank bookstore water consumption,128,0,1,,,1,60000,AV,90,11,0,BB Water Meter Total,Value,90000,,,83051,83051,50,,0,9,,,,,128
+465,230100_IUF Water Total Archive,IUC Forestry water consumption,128,0,1,,,1,230100,AV,24,11,0,IUF Water Meter Total,Value,90000,,,83044,83044,50,,0,9,,,,,128
+466,140400_GEO Water Total TL Archive,Geology water consumption,128,0,1,,,1,140400,AV,32,11,0,GEO Water Total,Value,90000,,,82896,82896,50,,0,9,,,,,128
+467,120200_TOO Water Total TL Archive,Toole water consumption,128,0,1,,,1,120200,AV,146,11,0,TOO Water Total,Value,90000,,,82793,82793,50,,0,9,,,,,128
+468,50500_BH TOTAL ELECTRICITY USED (KWH) at start of month TL Archive,,128,0,1,2017-09-27 00:00:00,,1,50500,AV,102,11,0,BH TOTAL ELECTRICITY USED (KWH) at start of month,Value,60000,,,79360,79360,50,,0,9,,,,,128
+469,340100_MAC Water Total TL Archive,MacLaggan water consumption,128,0,1,,,1,340100,AV,32,11,0,MAC Water Total,Value,90000,,,82700,82700,50,,0,9,,,,,128
+470,580200_TH Total Water TL Archive,Tilley Hall water consumption,128,0,1,,,1,580200,AV,98,11,0,TH Total Water,Value,90000,,,81157,81157,50,,0,9,,,,,128
+471,260000_JH Total Water TL Archive,Jones House water consumption,128,0,1,,,1,260000,AV,105,11,0,JH Total Water,Value,90000,,,81129,81129,50,,0,9,,,,,128
+472,400000_MG Total Water TL Archive,Magee and McLeod water consumption,128,0,1,,,1,400000,AV,138,11,0,MG Total Water,Value,90000,,,81142,81142,50,,0,9,,,,,128
+473,168400_Trend_Log_1 Archive,unknown,192,0,1,,,1,168400,AI,37,11,0,,Value,90000,,,17373077,17373077,,,,,,,,,
+474,430000_Neil Total Water TL Archive,Neil water consumption,128,0,1,,,1,430000,AV,105,11,0,Neil Total Water,Value,90000,,,80511,80511,50,,0,9,,,,,128
+475,450000_Neville Total Water TL Archive,Neville water consumption,128,0,1,,,1,450000,AV,105,11,0,Neville Total Water,Value,90000,,,80572,80572,50,,0,9,,,,,128
+476,490502_NE Total Condensate pump traps TL Archive,Head Hall total condensate (lbs),128,0,1,,,1,490502,AV,121,11,0,NE Total Condensate pump traps,Value,90000,,,77238,77238,50,,0,9,,,,,32
+477,240300_IUP Water Meter Total Archive,IUC Physics water consumption,128,0,1,,,1,240300,AV,142,11,0,IUP Water Total,Value,90000,,,77099,77099,50,,0,9,,,,,128
+478,30000_ALM Water Meter Total Archive,Alumni water consumption,128,0,1,,,1,30000,AV,142,11,0,ALM Water Total,Value,90000,,,77096,77096,50,,0,9,,,,,128
+479,490502_HH Water Meter Total Archive,Head Hall water consumption,128,0,1,,,1,490502,AV,142,11,0,HH Water Total,Value,90000,,,76959,76959,50,,0,9,,,,,128
+480,510000_RAD Water Meter Total Archive,Residence Administration water consumption,128,0,1,,,1,510000,AV,142,11,0,RAD Water Total,Value,90000,,,77050,77050,50,,0,9,,,,,128
+481,50500_BH TOTAL ELECTRICITY USED (KWH) last month TL Archive,,128,0,1,2017-09-27 00:00:00,,1,50500,AV,104,11,0,BH TOTAL ELECTRICITY USED last month cost,Value,60000,,,79365,79365,50,,0,9,,,,,128
+482,370200_MD AH5 Space Humidity TL Archive,Marshall D'Avery AH5 space humidity,128,0,1,,,1,370200,AI,6,11,0,MD AH5 Space Humidity,Value,4320000,,,17363,17363,50,,0,9,,,,,128
+483,370200_MD AH5 RAH TL Archive,Marshall D'Avery AH5 return air humidty,128,0,1,,,1,370200,AI,7,11,0,MD AH5 RAH,Value,180000,,,37880,37880,50,,0,9,,,,,128
+484,310200_LUD Water Meter Total Archive,Ludlow water consumption,128,0,1,,,1,310200,AV,142,11,0,LUD Water Total,Value,90000,,,75009,75009,50,,0,9,,,,,128
+485,561100_SUB Water Meter Total Archive,SUB water consumption,128,0,1,,,1,561100,AV,142,11,0,SUB Water Total,Value,90000,,,75025,75025,50,,0,9,,,,,128
+486,610300_WU Water Meter Total Archive,Wu water consumption,128,0,1,,,1,610300,AV,142,11,0,WU Water Total,Value,90000,,,75003,75003,50,,0,9,,,,,128
+487,620000_AH Total Water TL Archive,Aitken House water consumption,128,0,1,,,1,620000,AV,105,11,0,AH Total Water,Value,90000,,,75008,75008,50,,0,9,,,,,128
+488,390301_MCON Water Meter Total Archive,McConnell water consumption,128,0,1,,,1,390301,AV,142,11,0,MCON Water Total,Value,90000,,,74931,74931,50,,0,9,,,,,128
+489,20000_UNB AUC ICE DRM Setpt TL Archive,Aitken Center ice demand response management set point,192,0,1,,,1,20000,AV,20,11,0,AUC Ice Surface DRM Max Sept,Value,90000,,,44499,44499,50,,0,9,,,,,128
+490,680000_KIN LEED DOAS1 EA Flow TL Archive,,128,0,1,,,1,680000,AI,1304,11,0,KIN DOAS1 EA Flow,Value,90000,,,12108,12108,50,,0,9,,,,,128
+491,50500_BH TOTAL ELECTRICITY USED (KWH) current month TL Archive,,128,0,1,2017-09-27 00:00:00,,1,50500,AV,105,11,0,BH TOTAL ELECTRICITY USED (KWH) current month,Value,60000,,,79362,79362,50,,0,9,,,,,128
+492,50500_BH TOTAL ELECTRICITY USED today cost TL Archive,,128,0,1,2017-09-27 00:00:00,,1,50500,AV,101,11,0,BH TOTAL ELECTRICITY USED today cost,Value,60000,,,79363,79363,50,,0,9,,,,,128
+493,50500_BH TOTAL ELECTRICITY USED last month cost TL Archive,,128,0,1,2017-09-27 00:00:00,,1,50500,AV,104,11,0,BH TOTAL ELECTRICITY USED last month cost,Value,60000,,,79360,79360,50,,0,9,,,,,128
+494,50500_BH TOTAL ELECTRICITY USED cost current month TL Archive,,128,0,1,2017-09-27 00:00:00,,1,50500,AV,106,11,0,BH TOTAL ELECTRICITY USED cost current month,Value,60000,,,79361,79361,50,,0,9,,,,,128
+495,50500_BH TOTAL ELECTRICITY USED yesterday EUI TL Archive,,128,0,1,2017-10-02 00:00:00,,1,50500,AV,108,11,0,BH TOTAL ELECTRICITY USED yesterday EUI,Value,180000,,,26247,26247,1,,0,9,,,,,128
+496,50500_BH TOTAL ELECTRICITY USED (KWH) last month EUI TL Archive,,128,0,1,2017-10-02 00:00:00,,1,50500,AV,109,11,0,BH TOTAL ELECTRICITY USED (KWH) last month EUI,Value,180000,,,26247,26247,1,,0,9,,,,,128
+497,50500_BH TOTAL CONDENSATE USED yesterday EUI TL Archive,,128,0,1,2017-10-02 00:00:00,,1,50500,AV,110,11,0,BH TOTAL CONDENSATE USED yesterday EUI,Value,180000,,,26240,26240,50,,0,9,,,,,128
+498,50500_BH TOTAL CONDENSATE USED (KWH) last month EUI TL Archive,,128,0,1,2017-10-02 00:00:00,,1,50500,AV,111,11,0,BH TOTAL CONDENSATE USED (KWH) last month EUI,Value,180000,,,26242,26242,50,,0,9,,,,,128
+499,50500_BH TOTAL EUI YESTERDAY TL Archive,,128,0,1,2017-10-02 00:00:00,,1,50500,AV,112,11,0,BH TOTAL EUI YESTERDAY,Value,180000,,,26240,26240,50,,0,9,,,,,128
+500,50500_BH TOTAL EUI LAST MONTH TL Archive,,128,0,1,2017-10-02 00:00:00,,1,50500,AV,113,11,0,BH TOTAL EUI LAST MONTH,Value,180000,,,26240,26240,50,,0,9,,,,,128
+501,50500_BH TOTAL WATER USED last month TL Archive,,128,0,1,2017-10-02 00:00:00,,1,50500,AV,116,11,0,BH TOTAL WATER USED last month,Value,180000,,,26238,26238,50,,0,9,,,,,128
+502,50500_BH TOTAL WATER USED last month cost TL Archive,,128,0,1,2017-10-02 00:00:00,,1,50500,AV,117,11,0,BH TOTAL WATER USED last month cost,Value,180000,,,26240,26240,50,,0,9,,,,,128
+503,50500_BH TOTAL WATER USED last month EUI TL Archive,,128,0,1,2017-10-02 00:00:00,,1,50500,AV,118,11,0,BH TOTAL WATER USED last month EUI,Value,180000,,,26239,26239,50,,0,9,,,,,128
+504,50500_BH Water Meter Used yesterday TL Archive,,128,0,1,,,1,50500,AV,26,11,0,BH Main Water Meter Used yesterday,Value,0,,,572,572,180,,2668,9,,,,,128
+505,50500_BH Water Meter Used yesterday $ TL Archive,,128,0,1,,,1,50500,AV,27,11,0,BH Main Water Meter Used yesterday $,Value,0,,,525,525,45,,2409,9,,,,,128
+506,50500_BH TOTAL WATER USED Yesterday EUI TL Archive,,128,0,1,2017-10-03 00:00:00,,1,50500,AV,122,11,0,BH TOTAL WATER USED Yesterday EUI,Value,180000,,,26194,26194,50,,0,9,,,,,128
+507,50500_BH TOTAL WATER USED current month TL Archive,,128,0,1,2017-10-03 00:00:00,,1,50500,AV,120,11,0,BH TOTAL WATER USED current month,Value,180000,,,26194,26194,50,,0,9,,,,,128
+508,50500_BH TOTAL WATER USED current month cost TL Archive,,128,0,1,2017-10-03 00:00:00,,1,50500,AV,121,11,0,BH TOTAL WATER USED current month cost,Value,180000,,,26194,26194,50,,0,9,,,,,128
+509,50500_BH Main Water Meter Use already today TL Archive,,128,0,1,2017-10-03 00:00:00,,1,50500,AV,24,11,0,BH Main Water Meter Use already today,Value,180000,,,26194,26194,50,,0,9,,,,,128
+510,50500_BH Main Water Meter Use already today $ TL Archive,,128,0,1,2017-10-03 00:00:00,,1,50500,AV,28,11,0,BH Main Water Meter Use already today $,Value,180000,,,26194,26194,50,,0,9,,,,,128
+511,110100_CHP Water Total TL Archive,,128,0,1,2016-11-20 00:00:00,,1,110100,AV,146,11,0,CHP Water Total,Value,90000,,,47639,47639,50,,0,9,,,,,128
+512,20000_AUC Total Steam Archive,,192,0,1,2013-06-02 00:00:00,,1,20000,AV,88,11,0,AUC Total Steam Used,Value,90000,,,15723,15723,50,,0,9,,,,,128
+513,520200_Head Hall Power Demand 1M TL Archive,,128,0,1,,,1,520200,AV,16,11,0,Head Hall Demand,Value,6000,,,602555,602555,50,,0,9,,,,,128
+514,20100_AUC Indoor Air DewPoint TL Archive,,128,0,1,,,1,20100,AV,104,11,0,Indoor Air DewPoint,Value,90000,,,39240,39240,50,,0,9,,,,,128
+515,120200_Too Total Condensate Used Last Month Archive,,128,0,1,2018-02-26 00:00:00,,1,120200,AV,133,11,0,TOTAL CONDENSATE USED (LBS) last month,Value,360000,,,9624,9624,50,,0,9,,,,,128
+516,120200_Too Total Condensate Used Last Month Cost TL Archive,,128,0,1,2018-02-26 00:00:00,,1,120200,AV,134,11,0,TOTAL CONDENSATE USED last month $$$,Value,360000,,,9624,9624,50,,0,9,,,,,128
+517,90200_TOTAL CONDENSATE USED current month $$$ TL Archive,,128,0,1,2018-04-06 00:00:00,,1,90200,AV,24,11,0,TOTAL CONDENSATE USED current month $$$,Value,360000,,,8690,8690,2,,0,9,,,,,128
+518,520200_Too total electric consumption last month TL Archive,,128,0,1,2018-02-26 00:00:00,,1,520200,AV,34,11,0,Too total electric consumption last month,Value,360000,,,9624,9624,4,,0,9,,,,,128
+519,520200_Too total electric consumption last month $$$ TL Archive,,128,0,1,2018-02-26 00:00:00,,1,520200,AV,35,11,0,Too total electric consumption last month $$$,Value,360000,,,9627,9627,4,,0,9,,,,,128
+520,Detached 520200_CTN total electric consumption current month $$$ TL Archive 520,,0,2,0,2018-04-06 00:00:00,,,,,,0,,,,6000,,,2,2,50,,0,9,,,,,128
+521,120200_TOO total water last month TL Archive,,128,0,1,2018-02-26 00:00:00,,1,120200,AV,15,11,0,TOO total water last month,Value,360000,,,9626,9626,4,,0,9,,,,,128
+522,120200_TOO total water last month $$$ TL Archive,,128,0,1,2018-02-26 00:00:00,,1,120200,AV,16,11,0,TOO total water last month $$$,Value,360000,,,9626,9626,4,,0,9,,,,,128
+523,520200_CTN total electric consumption current month $$$ TL Archive,,128,0,1,2018-04-06 00:00:00,,1,520200,AV,39,11,0,CTN total electric consumption current month $$$,Value,6000,,,519052,519052,50,,0,9,,,,,128
+524,40000_AXC TOTAL CONDENSATE USED (LBS) last month TL Archive,,128,0,1,2018-02-26 00:00:00,,1,40000,AV,86,11,0,AXC TOTAL CONDENSATE USED (LBS) last month,Value,360000,,,9629,9629,2,,0,9,,,,,128
+525,40000_AXC TOTAL CONDENSATE USED last month $$$ TL Archive,,128,0,1,2018-02-26 00:00:00,,1,40000,AV,87,11,0,AXC TOTAL CONDENSATE USED last month $$$,Value,360000,,,9631,9631,2,,0,9,,,,,128
+526,40000_AXC TOTAL electric USED last month $$$ TL Archive,,128,0,1,2018-02-26 00:00:00,,1,40000,AV,10,11,0,AXC TOTAL electric USED last month $$$  ,Value,360000,,,9629,9629,2,,0,9,,,,,128
+527,40000_AXC TOTAL electric USED (LBS) last month TL Archive,,128,0,1,2018-02-26 00:00:00,,1,40000,AV,11,11,0,AXC TOTAL electric USED (LBS) last month  ,Value,6000,,,543983,543983,2,,0,9,,,,,128
+528,Detached 520200_CTN total electric consumption current month TL Archive 528,,0,2,0,2018-04-06 00:00:00,,,,,,0,,,,360000,,,1,1,50,,0,9,,,,,128
+529,520200_CTN total electric consumption current month TL Archive,,128,0,1,2018-04-06 00:00:00,,1,520200,AV,40,11,0,CTN total electric consumption current month,Value,360000,,,8674,8674,50,,0,9,,,,,128
+530,90200_TOTAL CONDENSATE USED (LBS) last month TL Archive,,128,0,1,2018-02-26 00:00:00,,1,90200,AV,63,11,0,TOTAL CONDENSATE USED (LBS) last month,Value,360000,,,9626,9626,2,,0,9,,,,,128
+531,90200_TOTAL CONDENSATE USED last month $$$ TL Archive,,128,0,1,2018-02-26 00:00:00,,1,90200,AV,64,11,0,TOTAL CONDENSATE USED last month $$$,Value,6000,,,558124,558124,2,,0,9,,,,,128
+532,140000_ GEO TOTAL CONDENSATE USED (LBS) last month TL Archive,,128,0,1,2018-02-26 00:00:00,,1,140000,AV,133,11,0,GEO TOTAL CONDENSATE USED (LBS) last month,Value,360000,,,9628,9628,2,,0,9,,,,,128
+533,140000_GEO TOTAL CONDENSATE USED last month $$$ TL Archive,,128,0,1,2018-02-26 00:00:00,,1,140000,AV,134,11,0,GEO TOTAL CONDENSATE USED last month $$$,Value,360000,,,9627,9627,2,,0,9,,,,,128
+534,140000_GEO TOTAL Electric USED (LBS) last month TL Archive,,128,0,1,2018-02-26 00:00:00,,1,140000,AV,11,11,0,GEO TOTAL Electric USED (LBS) last month,Value,360000,,,9626,9626,2,,0,9,,,,,128
+535,140000_GEO TOTAL Electric USED last month $$$ TL Archive,,128,0,1,2018-02-26 00:00:00,,1,140000,AV,12,11,0,GEO TOTAL Electric USED last month $$$,Value,6000,,,575376,575376,2,,0,9,,,,,128
+536,140400_GEO TOTAL Water USED (LBS) last month TL Archive,,128,0,1,2018-02-26 00:00:00,,1,140400,AV,10,11,0,GEO TOTAL Water USED (LBS) last month,Value,360000,,,9622,9622,2,,0,9,,,,,128
+537,140400_GEO TOTAL Water USED last month $$$ TL Archive,,128,0,1,2018-02-26 00:00:00,,1,140400,AV,12,11,0,GEO TOTAL Water USED last month $$$,Value,6000,,,574886,574886,2,,0,9,,,,,128
+538,140400_GEO TOTAL Water USED current month  Archive,,128,0,1,2018-04-09 00:00:00,,1,140400,AV,14,11,0,GEO TOTAL Water USED (LBS) current month ,Value,360000,,,8623,8623,2,,0,9,,,,,128
+539,140000_GEO TOTAL CONDENSATE USED (LBS) current month TL Archive,,128,0,1,2018-04-09 00:00:00,,1,140000,AV,13,11,0,GEO TOTAL CONDENSATE USED (LBS) current month,Value,360000,,,8625,8625,2,,0,9,,,,,128
+540,140000_GEO TOTAL CONDENSATE USED current month $$$ TL Archive,,128,0,1,2018-04-09 00:00:00,,1,140000,AV,19,11,0,GEO TOTAL CONDENSATE USED current month $$$,Value,360000,,,8624,8624,2,,0,9,,,,,128
+541,140000_GEO TOTAL Electric USED current month TL Archive,,128,0,1,2018-04-09 00:00:00,,1,140000,AV,21,11,0,GEO TOTAL Electric USED (LBS) current month,Value,360000,,,8625,8625,2,,0,9,,,,,128
+542,140000_GEO TOTAL Electric USED current month $$$ TL Archive,,128,0,1,2018-04-09 00:00:00,,1,140000,AV,20,11,0,GEO TOTAL Electric USED current month $$$,Value,360000,,,8625,8625,2,,0,9,,,,,128
+543,120200_TOO total water current month TL Archive,,128,0,1,2018-04-09 00:00:00,,1,120200,AV,19,11,0,TOO total water current month ,Value,360000,,,8618,8618,2,,0,9,,,,,128
+544,120200_TOO total water current month $$$ TL Archive,,128,0,1,2018-04-09 00:00:00,,1,120200,AV,21,11,0,TOO total water current month $$$ ,Value,360000,,,8618,8618,2,,0,9,,,,,128
+545,520200_Too total electric consumption current month TL Archive,,128,0,1,2018-04-09 00:00:00,,1,520200,AV,41,11,0,Too total electric consumption current month,Value,360000,,,8615,8615,2,,0,9,,,,,128
+546,520200_Too total electric consumption current month $$$ TL Archive,,128,0,1,2018-04-09 00:00:00,,1,520200,AV,42,11,0,Too total electric consumption current month $$$,Value,360000,,,8615,8615,2,,0,9,,,,,128
+547,140400_GEO TOTAL Water USED current month $$$ TL Archive,,128,0,1,2018-04-09 00:00:00,,1,140400,AV,13,11,0,GEO TOTAL Water USED current month $$$,Value,360000,,,8622,8622,2,,0,9,,,,,128
+548,120200_TOTAL CONDENSATE USED (LBS) current month TL Archive,,128,0,1,2018-04-09 00:00:00,,1,120200,AV,17,11,0,TOTAL CONDENSATE USED (LBS) current month,Value,360000,,,8617,8617,2,,0,9,,,,,128
+549,120200_TOTAL CONDENSATE USED current month $$$ TL Archive,,128,0,1,2018-04-09 00:00:00,,1,120200,AV,18,11,0,TOTAL CONDENSATE USED current month $$$,Value,360000,,,8617,8617,2,,0,9,,,,,128
+550,20500_AUC Total Water M3 TL Archive,,128,0,1,2018-04-16 00:00:00,,1,20500,AV,612,11,0,AUC Total Water M3,Value,90000,,,32209,32209,9,,0,9,,,,,128
+551,680000_KIN LEED DOAS1 EA Total Flow TL Archive,,128,0,1,,,1,680000,AT,1304,11,0,KIN DOAS1 EA Total Flow,Value,90000,,,12108,12108,50,,0,9,,,,,128
+552,680000_KIN LEED ERV1 RAT TL Archive,,128,0,1,,,1,680000,AI,1502,11,0,KIN ERV1 RAT,Value,90000,,,12108,12108,50,,0,9,,,,,128
+553,20500_AUC Total Steam20500 TL Archive,,128,0,1,2018-04-17 00:00:00,,1,20500,AV,18,11,0,AUC Total Steam20500,Value,90000,,,32195,32195,9,,0,9,,,,,128
+554,20500_AUC Total Condensate20500 TL Archive,,128,0,1,2018-04-17 00:00:00,,1,20500,AV,19,11,0,AUC Total Condensate20500,Value,90000,,,32195,32195,9,,0,9,,,,,128
+555,680000_KIN LEED ERV1 RAH TL Archive,,128,0,1,,,1,680000,AI,1504,11,0,KIN ERV1 RAH,Value,90000,,,12108,12108,50,,0,9,,,,,128
+556,680000_KIN LEED ERV1 SA Flow TL Archive,,128,0,1,,,1,680000,AI,1703,11,0,KIN ERV1 SA Flow,Value,90000,,,12108,12108,50,,0,9,,,,,128
+557,680000_KIN LEED ERV1 SA Total Flow TL Archive,,128,0,1,,,1,680000,AT,1703,11,0,KIN ERV1 SA Total Flow,Value,90000,,,12108,12108,50,,0,9,,,,,128
+558,680000_KIN LEED ERV1 EA Flow TL Archive,,128,0,1,,,1,680000,AI,1704,11,0,KIN ERV1 EA Flow,Value,90000,,,12108,12108,50,,0,9,,,,,128
+559,680000_KIN LEED ERV1 EA Total Flow TL Archive,,128,0,1,,,1,680000,AT,1704,11,0,KIN ERV1 EA Total Flow,Value,90000,,,12108,12108,50,,0,9,,,,,128
+560,680100_KIN LEED DOAS2 RAT TL Archive,,128,0,1,,,1,680100,AI,1102,11,0,KIN DOAS2 RAT,Value,90000,,,12107,12107,50,,0,9,,,,,128
+561,680100_KIN LEED DOAS2 RAH TL Archive,,128,0,1,,,1,680100,AI,1103,11,0,,Value,90000,,,28,28,50,,0,9,,,,,128
+562,680100_KIN LEED DOAS2 SA Flow TL Archive,,128,0,1,,,1,680100,AI,1303,11,0,KIN DOAS2 SA Flow,Value,90000,,,12107,12107,50,,0,9,,,,,128
+563,680100_KIN LEED DOAS2 SA Total Flow TL Archive,,128,0,1,,,1,680100,AT,1303,11,0,KIN DOAS2 SA Total Flow,Value,90000,,,12107,12107,50,,0,9,,,,,128
+564,680100_KIN LEED DOAS2 EA Flow TL Archive,,128,0,1,,,1,680100,AI,1304,11,0,KIN DOAS2 EA Flow,Value,90000,,,12107,12107,50,,0,9,,,,,128
+565,680100_KIN LEED DOAS2 EA Total Flow TL Archive,,128,0,1,,,1,680100,AT,1304,11,0,KIN DOAS2 EA Total Flow,Value,90000,,,12107,12107,50,,0,9,,,,,128
+566,680100_KIN LEED DOAS3 RAT TL Archive,,128,0,1,,,1,680100,AI,1502,11,0,KIN DOAS3 RAT,Value,90000,,,12107,12107,50,,0,9,,,,,128
+567,680100_KIN LEED DOAS3 RAH TL Archive,,128,0,1,,,1,680100,AI,1504,11,0,KIN DOAS3 RAH,Value,90000,,,12107,12107,50,,0,9,,,,,128
+568,680100_KIN LEED DOAS3 SA Flow TL Archive,,128,0,1,,,1,680100,AI,1703,11,0,KIN DOAS3 SA Flow,Value,90000,,,12107,12107,50,,0,9,,,,,128
+569,680100_KIN LEED DOAS3 SA Total Flow TL Archive,,128,0,1,,,1,680100,AT,1703,11,0,KIN DOAS3 SA Total Flow,Value,90000,,,12107,12107,50,,0,9,,,,,128
+570,680100_KIN LEED DOAS3 EA Flow TL Archive,,128,0,1,,,1,680100,AI,1704,11,0,KIN DOAS3 EA Flow,Value,90000,,,12107,12107,50,,0,9,,,,,128
+571,680100_KIN LEED DOAS3 EA Total Flow TL Archive,,128,0,1,,,1,680100,AT,1704,11,0,KIN DOAS3 EA Total Flow,Value,90000,,,12107,12107,50,,0,9,,,,,128
+572,520020_Lower Campus Condensate Pump 2 TL Archive,,,0,1,2018-12-03 00:00:00,,1,520020,BI,5,11,0,Lower Campus Condensate Pump 2,Value,0,,,15824,15824,45,,14310,9,,,,,32
+573,520020_Lower Campus Condensate Pump 1 TL Archive,,,0,1,2018-12-03 00:00:00,,1,520020,BI,4,11,0,Lower Campus Condensate Pump 1,Value,0,,,15342,15342,45,,13815,9,,,,,32
+574,70100_PANB Total Steam TL Archive,,128,0,1,2018-12-10 00:00:00,,1,70100,AV,1,11,0,PANB Total Steam,Value,90000,,,10841,10841,50,,0,9,,,,,32
+575,380300_MRTN COND PT3 Total Condensate Archive,,128,0,1,2018-12-11 00:00:00,,1,380300,AV,103,11,0,PT3 TOTAL CONDENSATE USED (LBS),Value,90000,,,52628,52628,50,,0,9,,,,,128
+576,Detached 520200_FM Amps A Archive 576,,0,2,0,2018-12-12 00:00:00,,,,,,,,,,60000,,,,,50,,0,9,,,,,128
+577,520200_FM Amps A Archive,,,0,1,2018-12-12 00:00:00,,1,528000,AV,1,11,0,,Value,60000,,,15800,15800,50,,0,9,,,,,128
+578,Detached 520200_FM Amps B Archive 578,,0,2,0,2018-12-12 00:00:00,,,,,,,,,,60000,,,,,50,,0,9,,,,,128
+579,520200_FM Amps B Archive,,,0,1,2018-12-12 00:00:00,,1,528000,AV,2,11,0,,Value,60000,,,15800,15800,50,,0,9,,,,,128
+580,Detached 520200_FM Amps C Archive 580,,0,2,0,2018-12-12 00:00:00,,,,,,,,,,60000,,,,,50,,0,9,,,,,128
+581,520200_FM Amps C Archive,,,0,1,2018-12-12 00:00:00,,1,528000,AV,3,11,0,,Value,60000,,,15800,15800,50,,0,9,,,,,128
+582,630001_NR MECH RM NATURAL GAS TL Archive,,128,0,1,2011-03-09 00:00:00,,1,630001,AI,2,11,0,NR MECH RM NATURAL GAS,Value,30000,,,31620,31620,90,,0,9,,,,,128
+583,630001_NR MECH RM CO TL Archive,,128,0,1,2011-03-09 00:00:00,,1,630001,AI,1,11,0,NR MECH RM CARBON MONOXIDE,Value,30000,,,31618,31618,50,,0,9,,,,,128
+584,680500_Total Equivalent Steam TL Archive,,128,0,1,2019-01-15 00:00:00,,1,680500,AV,1,11,0,Total Equivalent Steam Consumption,Value,90000,,,7402,7402,50,,0,9,,,,,128
+585,Detached 680150_KIN R252 SPC TL Archive 585,,0,2,0,2019-01-15 00:00:00,,1,680150,AI,401,11,0,R352,Value,90000,,,8145,8145,90,,0,9,,,,,128
+586,490501_HH MAIN HIGH AIR PRESSURE 1h TL Archive,,,0,1,,,1,490501,AI,3,11,0,HH MAIN HIGH AIR PRESSURE,Value,360000,,,1020,1020,50,,0,9,,,,,128
+587,Detached 680150_KIN R351 SPC TL Archive 587,,0,2,0,2019-01-15 00:00:00,,1,680150,AI,301,11,0,R351,Value,90000,,,741,741,90,,0,9,,,,,128
+588,680150_R349 Radiant TL Archive,,,0,1,,,1,680150,AO,1,11,0,R349 Radiant,Value,90000,,,1939,1939,90,,0,9,,,,,128
+589,680150_R350 Radiant TL Archive,,,0,1,,,1,680150,AO,2,11,0,R350 Radiant,Value,90000,,,1939,1939,90,,0,9,,,,,128
+590,100300_AH2 CO2 TL Archive,,,0,1,2019-03-20 00:00:00,,1,100300,AI,9,11,0,CH PENTHOUSE CO2,Value,90000,,,1250,1250,50,,0,9,,,,,128

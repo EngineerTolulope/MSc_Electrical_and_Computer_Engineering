@@ -1,0 +1,5 @@
+There are two roots 0.2410. and 1.2912.
+
+Try making your codes simpler and efficient as possible.
+
+The root should be between 0.76096251 - 0.77633549.
